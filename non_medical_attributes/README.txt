@@ -30,6 +30,9 @@ Regarding "Importance" heuristics
 
 Regarding Data Parsing and Temporary Data Storage
 
+Regarding More Convoluted workflow
+    - PCA first to mine data, than manually set MWETokenizer
+
 --------
 
 Pseudocode for workflow:

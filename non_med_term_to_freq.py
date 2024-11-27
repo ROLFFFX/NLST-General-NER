@@ -1,21 +1,23 @@
 import json
 import nltk
-from nltk.tokenize import MWETokenizer 
-from nltk.tokenize import TreebankWordTokenizer
-
+from nltk.tokenize import MWETokenizer
 
 with open('data/lung_cancer_entities_batch_1.json', 'r') as file:
     data = json.load(file)
 
-non_med_results = {}    # KV pair of note_id : list of terms
+note_terms = {}    # KV pair of note_id : list of terms
+non_med_terms_freq = {}  # KV pair of term : freq
 attributes = ['pretty_name', 'source_value']    # meta_anns will be treated differntly since the value is a json object
 
 # helper function to classify whether or not the given word is medical term
-medical_terms = {"thoracic", "chest", "radiology", "cardiac", "diagnosis"}
+demographic_terms = {"year", "old"}
 tokenizer = MWETokenizer()  #TODO: find other tokenizers better for general information purposes
 def classify_term(term):
-    tokens = tokenizer.tokenize(term.lower())
-    print(tokens)
+    # tokens = tokenizer.tokenize(term.lower())
+    tokens = term.lower().split()
+    # print(tokens)
+    return True # @TODO: now returns everything to be true, can use negation of some medical corpus
+    
 
 c = 0
 for note in data:
@@ -26,8 +28,15 @@ for note in data:
         for attr in attributes: # collect pretty_name and source_value in each note segment
             # print(entities[section_id][attr])
             terms.append(entities[section_id][attr])
-    non_med_results.update({note_id: terms})
 
-# print(non_med_results)
+# parse terms list, update non_med_results list using classifier
+    note_terms.update({note_id: terms})
+    for term in terms:
+        if (classify_term(term)):
+            if term in non_med_terms_freq:
+                non_med_terms_freq.update({term : non_med_terms_freq.get(term) + 1})
+            else:
+                non_med_terms_freq.update({term : 1})
 
-classify_term("The patient is a 85 year old heavy smoker, and he smokes a lot.")
+
+print(non_med_terms_freq)
