@@ -12,7 +12,7 @@ attributes = ['pretty_name', 'source_value']    # meta_anns will be treated diff
 
 # helper function to classify whether or not the given word is medical term
 medical_terms = {"thoracic", "chest", "radiology", "cardiac", "diagnosis"}
-tokenizer = MWETokenizer()
+tokenizer = MWETokenizer()  #TODO: find other tokenizers better for general information purposes
 def classify_term(term):
     tokens = tokenizer.tokenize(term.lower())
     print(tokens)
