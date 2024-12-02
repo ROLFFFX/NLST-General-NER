@@ -6,15 +6,18 @@ from nltk.tokenize import word_tokenize
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 import matplotlib.pyplot as plt
-
+import json
 nltk.download('stopwords')
 nltk.download('punkt')
 
+with open("medical_terms.json", 'r') as json_file:
+    medical_terms_data = json.load(json_file)
 
+medical_terms = medical_terms_data['medical_terms']
 
 # load the data, TEXT portion only
-df = pd.read_csv("data/lung_cancer_notes.csv")
-texts = df["TEXT"]
+df = pd.read_csv("data/NLST_concatenated.csv")
+texts = df["Concatenated"]
 
 '''
     Helper function for preprocessing the note
@@ -31,32 +34,43 @@ def preprocess_text(text):
 processed_texts = texts.apply(preprocess_text)
 
 # simple example corpus, will replace later
-medical_terms = {"resp", 
-                 "bp", 
-                 "hr", 
-                 "dyspnea", 
-                 "nebs", 
-                 "diagnosis", 
-                 "prednisone", 
-                 "pleural", 
-                 "pneumothorax", 
-                 "lung", 
-                 "effusion", 
-                 "pneumonia",
-                 "cancer",
-                 "mass",
-                 "radiology",
-                 "medical",
-                 "ap",
-                 "pulmonary",
-                 "atelectasis",
-                 "edema",
-                 "radiograph",
-                 "bilateral",
-                 "sp",
-                 "cp",
-                 "lobe"
-                 }
+# medical_terms = {"resp", 
+#                  "bp", 
+#                  "hr", 
+#                  "dyspnea", 
+#                  "nebs", 
+#                  "diagnosis", 
+#                  "prednisone", 
+#                  "pleural", 
+#                  "pneumothorax", 
+#                  "lung", 
+#                  "effusion", 
+#                  "pneumonia",
+#                  "cancer",
+#                  "mass",
+#                  "radiology",
+#                  "medical",
+#                  "ap",
+#                  "pulmonary",
+#                  "atelectasis",
+#                  "edema",
+#                  "radiograph",
+#                  "bilateral",
+#                  "sp",
+#                  "cp",
+#                  "lobe",
+#                  "nnot",
+#                  "metastasis",
+#                  "attenuation",
+#                  "tumor",
+#                  "lymph",
+#                  "mmissing",
+#                  "ct",
+#                  "icdo",
+#                  'nondiagonistic',
+#                  'cm',
+#                  'mm'
+#                  }
 
 '''
     Helper function for classifying non medical terms.
@@ -78,7 +92,7 @@ for tokens in processed_texts:
 '''
 print(non_medical_terms.most_common(100))
 non_medical_freq_df = pd.DataFrame(non_medical_terms.items(), columns=["Term", "Frequency"])
-non_medical_freq_df.to_csv("non_medical_freq.csv", index=False)
+non_medical_freq_df.to_csv("output/structured_non_medical_freq.csv", index=False)
 
 '''
     #################
@@ -103,7 +117,7 @@ non_medical_tfidf = tfidf_df[~tfidf_df['Term'].isin(medical_terms)]
 print("Top Non-Medical Terms by TF-IDF:")
 print(non_medical_tfidf.head(100))
 
-non_medical_tfidf.to_csv("non_medical_tfidf.csv", index=False)
+non_medical_tfidf.to_csv("output/structured_non_medical_tfidf.csv", index=False)
 
 '''
     #################
