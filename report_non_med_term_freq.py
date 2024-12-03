@@ -34,49 +34,6 @@ def preprocess_text(text):
 
 processed_texts = texts.apply(preprocess_text)
 
-# simple example corpus, will replace later
-medical_terms = {"resp", 
-                 "bp", 
-                 "hr", 
-                 "dyspnea", 
-                 "nebs", 
-                 "diagnosis", 
-                 "prednisone", 
-                 "pleural", 
-                 "pneumothorax", 
-                 "lung", 
-                 "effusion", 
-                 "pneumonia",
-                 "cancer",
-                 "mass",
-                 "radiology",
-                 "medical",
-                 "ap",
-                 "pulmonary",
-                 "atelectasis",
-                 "edema",
-                 "radiograph",
-                 "bilateral",
-                 "sp",
-                 "cp",
-                 "lobe",
-                 "nnot",
-                 "metastasis",
-                 "attenuation",
-                 "tumor",
-                 "lymph",
-                 "mmissing",
-                 "ct",
-                 "yes",
-                 "hilar",
-                 "lobectomy",
-                 "ptx",
-                 "pneumonectomy",
-                 "mediastinal",
-                 "pa",
-                 "apical"
-                 }
-
 '''
     Helper function for classifying non medical terms.
     TODO: the medical_terms is an examplary corpus that should be replaced with medical
@@ -84,7 +41,7 @@ medical_terms = {"resp",
 '''
 def extract_non_medical_terms(tokens, medical_vocab):
     non_medical = [word for word in tokens if word not in medical_vocab]
-    return non_medical
+    return tokens # dummy return, not classified
 
 non_medical_terms = Counter()
 for tokens in tqdm(processed_texts, desc="Processing texts"):

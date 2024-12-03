@@ -33,44 +33,6 @@ def preprocess_text(text):
 
 processed_texts = texts.apply(preprocess_text)
 
-# simple example corpus, will replace later
-# medical_terms = {"resp", 
-#                  "bp", 
-#                  "hr", 
-#                  "dyspnea", 
-#                  "nebs", 
-#                  "diagnosis", 
-#                  "prednisone", 
-#                  "pleural", 
-#                  "pneumothorax", 
-#                  "lung", 
-#                  "effusion", 
-#                  "pneumonia",
-#                  "cancer",
-#                  "mass",
-#                  "radiology",
-#                  "medical",
-#                  "ap",
-#                  "pulmonary",
-#                  "atelectasis",
-#                  "edema",
-#                  "radiograph",
-#                  "bilateral",
-#                  "sp",
-#                  "cp",
-#                  "lobe",
-#                  "nnot",
-#                  "metastasis",
-#                  "attenuation",
-#                  "tumor",
-#                  "lymph",
-#                  "mmissing",
-#                  "ct",
-#                  "icdo",
-#                  'nondiagonistic',
-#                  'cm',
-#                  'mm'
-#                  }
 
 '''
     Helper function for classifying non medical terms.

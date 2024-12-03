@@ -1,0 +1,5242 @@
+Pretty Name,Frequency,Entity Type
+AP,3493,ORG
+CT,2959,ORG
+#,2461,CARDINAL
+IV,2318,GPE
+First,1478,ORDINAL
+Comparison,1437,ORG
+SVC,1325,ORG
+PA & LAT,910,ORG
+two,642,CARDINAL
+un,605,ORG
+subclavian,584,NORP
+NG,564,ORG
+CHF,474,ORG
+Lung,464,PERSON
+Two,436,CARDINAL
+PFI,409,GPE
+Evaluate,392,ORG
+NSCLC,357,ORG
+carina,332,GPE
+W & W/O CONTRAST                                        Clip,326,ORG
+today,316,DATE
+Findings,316,PERSON
+Cardiac,314,ORG
+Mild,307,PERSON
+RLL,300,ORG
+CA,297,ORG
+PE,288,ORG
+DVT,271,ORG
+LUL,261,ORG
+NON-CORONARY                          Clip,261,ORG
+SOB,250,ORG
+ETT,249,ORG
+IVC,246,ORG
+yesterday,243,DATE
+emphysema,242,PERSON
+LUNG CA/SDA,241,PERSON
+French,232,NORP
+Evaluate,229,PERSON
+fourth,227,ORDINAL
+PTX,223,ORG
+one,222,CARDINAL
+Followup,212,GPE
+Optiray,209,PERSON
+Assess,204,ORG
+second,199,ORDINAL
+NI,198,ORG
+COPD,194,ORG
+third,190,ORDINAL
+NGT,188,ORG
+CXR,186,ORG
+Coronal,185,ORG
+Doppler,176,PERSON
+MIN,176,ORG
+LLL,175,ORG
+LEFT,174,PERSON
+Limited,171,ORG
+Pulmonary,170,PERSON
+Multiplanar,169,GPE
+Left lung,167,PERSON
+CTA,161,ORG
+Contiguous,156,GPE
+s/p L,156,ORG
+FDG,148,ORG
+BRAIN,148,ORG
+s/p,147,ORG
+Foley,146,PERSON
+Left,143,FAC
+WED,142,ORG
+OG,141,ORG
+the same day,138,DATE
+PFI,137,ORG
+PNA,136,ORG
+year,133,DATE
+LUNG CA,132,PERSON
+PLACEMENT                                      Clip,131,PERSON
+FLAIR,126,ORG
+Dobbhoff,125,ORG
+ETT,124,NORP
+Eval,124,PERSON
+hernia,118,GPE
+CT ABD W&W,117,ORG
+three,117,CARDINAL
+TWO,116,CARDINAL
+s/p LUL,116,ORG
+US,115,GPE
+pleural,114,GPE
+anesthesia,113,GPE
+One,111,CARDINAL
+CVL,110,ORG
+CA,108,WORK_OF_ART
+Metastatic,107,NORP
+GE,106,ORG
+mastoid air cells,104,ORG
+PTX,103,PERSON
+Bibasilar,103,NORP
+Slight,100,PERSON
+one day earlier,98,DATE
+PET,97,ORG
+FRI,96,ORG
+Pleural,96,GPE
+s/p RUL,96,ORG
+lingula,96,PERSON
+Left,91,PERSON
+REVISED,91,ORG
+Left,90,LOC
+ICU,89,ORG
+LOBE NODULE/SDA,88,ORG
+VATS,88,ORG
+CT ABD &,88,ORG
+Interval,86,ORG
+NG,84,GPE
+linear,84,ORG
+Swan-Ganz,84,WORK_OF_ART
+Subcutaneous emphysema,83,PERSON
+Titles,83,ORG
+earlier the same day,80,DATE
+EFFUSION;LEFT,80,PERSON
+subcutaneous emphysema,79,PERSON
+first,79,ORDINAL
+SUN,78,ORG
+Single AP,78,ORG
+GI,78,ORG
+TUE,77,ORG
+Small,76,PERSON
+OSSEOUS,76,ORG
+CAD,75,ORG
+LUNG CA LEFT,72,PERSON
+one day,72,DATE
+RADIOLOGISTS,72,ORG
+LOBE CA,69,PERSON
+UNILAT,67,ORG
+Evaluate,66,LOC
+w/,66,PERSON
+Chest AP,66,ORG
+earlier the same date,66,DATE
+RML,63,ORG
+Degenerative,63,PERSON
+Three,63,CARDINAL
+W & W/O CONTRAST,62,ORG
+SCLC,62,ORG
+NON-CORONARY,62,ORG
+Emphysema,61,PERSON
+L,59,NORP
+MD,59,GPE
+U.S.,58,GPE
+Mediastinal,57,LOC
+lung CA,56,PERSON
+EVD,56,ORG
+Thoracic,56,ORG
+s/p VATS,55,ORG
+CVA,55,ORG
+Mediastinum,54,PERSON
+PEG,54,ORG
+Cardiomegaly,54,GPE
+Multilevel,53,PERSON
+Coronary,53,ORG
+sixth,53,ORDINAL
+Ventricles,53,PERSON
+MRA,52,ORG
+LEFT MAIN,52,PERSON
+TE,52,ORG
+SAT,52,ORG
+Cardiomediastinal,51,ORG
+CSF,51,ORG
+CABG,51,PRODUCT
+CEREBELLAR,50,PERSON
+French,50,LANGUAGE
+SUPINE & ERECT,50,ORG
+CV,50,PERSON
+fifth,50,ORDINAL
+"CA/SDA
+ _",49,ORG
+s/p CT,49,ORG
+PTitle,49,ORG
+RVR,49,ORG
+Linear,48,ORG
+Grayscale,48,GPE
+MDCT,47,ORG
+Lung CA,47,PERSON
+SBO,46,ORG
+WBC,45,ORG
+LEFT LOWER,45,PERSON
+LEFT LUNG CANCER,45,PERSON
+EFFUSION,45,PERSON
+mCi,45,ORG
+Tiny,44,ORG
+FIRST,44,ORDINAL
+a day earlier,42,DATE
+UPRIGHT AP,41,ORG
+Trace,40,ORG
+VAS,40,ORG
+Versed,40,PERSON
+ICA,40,ORG
+Postoperative,39,PERSON
+MCA,39,ORG
+TUE,38,PERSON
+RUQ,38,ORG
+Minimal,38,NORP
+node,37,ORG
+Complete,36,PERSON
+Port-A-Cath,36,FAC
+NSCLCA,36,ORG
+pleural fluid,36,PERSON
+W & W,35,ORG
+Unchanged,35,ORG
+DFDkq,35,ORG
+seventh,35,ORDINAL
+MS,35,ORG
+Minimal,34,GPE
+IJ,34,ORG
+EXT,34,ORG
+PET-CT,33,ORG
+MEDIASTINAL,33,PERSON
+Chest CT,33,ORG
+Helically,33,ORG
+Examination,33,ORG
+diverticulitis,33,GPE
+ONE,33,CARDINAL
+Central,33,ORG
+PIC,32,ORG
+Contrast,32,ORG
+XRT,31,ORG
+this morning,31,TIME
+Dobhoff,31,PERSON
+PLEURAL,31,GPE
+Soft,31,PERSON
+the day,31,DATE
+s/p RLL,31,ORG
+FRI,31,PERSON
+Lungs,31,WORK_OF_ART
+RULobectomy,30,ORG
+CA s/p,30,ORG
+earlier today,30,TIME
+RIJ,30,ORG
+Year,30,DATE
+Status,29,PERSON
+the prior day,29,DATE
+IPF,29,ORG
+"CA
+ REASON",29,CARDINAL
+CNS,29,ORG
+PE,28,GPE
+Noncontrast,28,ORG
+CA s/p Total,28,ORG
+calculi,28,GPE
+MDP,28,ORG
+MR CONTRAST GADOLIN                   Clip,28,ORG
+"LEG INFRACTION;RULE OUT TUBERCULOSIS
+ _",27,ORG
+Mediastinal,27,PRODUCT
+L,27,GPE
+POD,27,ORG
+MYOCARDIAL INFARCTION\CATH,27,PERSON
+cerebellar mass,27,PERSON
+half,27,CARDINAL
+MON,27,ORG
+LEFT HEMOTHORAX,26,PERSON
+Pneumothorax,26,PERSON
+STIR,26,ORG
+Bony,26,PERSON
+AP & LAT,26,ORG
+ICH,26,ORG
+wean,26,NORP
+WAND,26,ORG
+MON,26,PERSON
+LEFT LUNG CA/SDA,26,PERSON
+s/p right upper,25,ORG
+s/p LLL,25,ORG
+Subsequently,25,ORG
+LEFT FOOT,25,PERSON
+Evaluate,25,GPE
+AMS,25,ORG
+daily,25,DATE
+LEFT                                     Clip,24,PERSON
+Bronchial,24,ORG
+UTI,24,ORG
+Significant,24,PERSON
+hemorrhagic,24,ORG
+s/p RML/RLLobectomy,24,ORG
+Left PICC,24,FAC
+Asymmetric,24,PERSON
+O.R.,24,GPE
+SMA,24,ORG
+WET READ,23,ORG
+BONES,23,ORG
+the same day earlier,23,DATE
+LEFT LUNG NODULE,23,PERSON
+Patient,23,PERSON
+noon,23,TIME
+Dobhoff,22,ORG
+Multiple,22,ORG
+Portable AP,22,WORK_OF_ART
+SUPINE AP,22,ORG
+Retrocardiac,22,ORG
+CC,22,ORG
+LATERAL,22,ORG
+RMS,22,ORG
+"PE
+  Contrast",22,ORG
+M.D.         Approved,22,FAC
+INR,22,ORG
+two days,21,DATE
+Pneumonia,21,GPE
+six hours,21,TIME
+"SOB
+ REASON",21,PRODUCT
+ED,21,PERSON
+EP,21,ORG
+Bilateral,21,LOC
+CTA NECK W&W/OC & RECONS             Clip,21,ORG
+four,21,CARDINAL
+w/,21,GPE
+earlier in the day,21,DATE
+PA,21,ORG
+TPN,21,ORG
+ORDER,21,ORG
+EVAL,20,ORG
+DWI,20,ORG
+IR,20,ORG
+EKG,20,ORG
+Adjacent,20,PERSON
+M.D.             Approved,20,PERSON
+CT GUIDED NEEDLE PLACTMENT              Clip,20,ORG
+dysphagia,20,GPE
+Gadolinium,20,GPE
+Vascular,20,NORP
+Mild cardiomegaly,20,PERSON
+RENAL,20,GPE
+Adenocarcinoma,20,PERSON
+"NSCLC
+ REASON FOR THIS EXAMINATION",19,ORG
+"SOB
+ REASON FOR THIS EXAMINATION",19,ORG
+NSLC,19,PERSON
+Hounsfield,19,PRODUCT
+Pneumonectomy,19,PERSON
+Brain,19,ORG
+middle,19,LOC
+AAA,19,ORG
+IP,19,ORG
+R.,19,NORP
+Nonionic,19,ORG
+VAP,19,ORG
+F,19,PRODUCT
+RUE,19,ORG
+s/p MI,19,ORG
+Trachea,19,PERSON
+WED,18,PERSON
+s/p RML,18,ORG
+S/P,18,ORG
+Large,18,PERSON
+CXR,18,NORP
+KUB,18,ORG
+MRA BRAIN W/O CONTRAST                Clip,18,ORG
+CCA,18,ORG
+two hours earlier,18,TIME
+tomorrow,18,DATE
+Volumetric,18,PERSON
+MR,18,ORG
+three days,18,DATE
+Left pleural,18,LOC
+CA,18,PERSON
+EXT VEINS US RIGHT                                    Clip,18,ORG
+Dense,18,ORG
+MICU,18,ORG
+eighth,18,ORDINAL
+max,17,PERSON
+pleural effusions,17,GPE
+A.M.,17,PERSON
+PCP,17,ORG
+PO,17,ORG
+Thrombus,17,ORG
+MET,17,ORG
+HIV+,17,GPE
+OGT,17,ORG
+Nodular,17,PERSON
+PTX,17,GPE
+three hours,17,TIME
+s/p fall,17,ORG
+SECOND,17,ORDINAL
+MAP,17,ORG
+s/p LL,16,ORG
+Acute,16,ORG
+hemangioma,16,ORG
+"CANCER-RESPIRATORY FAILURE
+ _",16,ORG
+GUIDANCE,16,GPE
+ANESTHESIA,16,ORG
+overnight,16,TIME
+node,16,GPE
+TB,16,ORG
+Skin,16,PERSON
+PET CT,16,ORG
+Minimal,16,LOC
+Drs,16,PERSON
+TRV,16,ORG
+JVP,16,ORG
+four hours,15,TIME
+New,15,GPE
+Fluid,15,PERSON
+s/p NGT,15,ORG
+Moderate,15,PERSON
+two hours,15,TIME
+FFP,15,ORG
+Fever,15,GPE
+"s/p intubation
+ REASON FOR THIS EXAMINATION",15,ORG
+PEA,15,ORG
+s/p r upper,15,ORG
+five hours,15,TIME
+FNA,15,ORG
+Schmorl,15,PERSON
+lung mass,15,PERSON
+"s/p CABG
+
+ REASON FOR THIS EXAMINATION",15,ORG
+Acute,15,LOC
+CEREBELLAR BLEED,15,PERSON
+s/p NG,15,ORG
+RADIOLOGIST,15,ORG
+Dyspnea,15,GPE
+SC,14,ORG
+XRT,14,PRODUCT
+URINARY,14,GPE
+THREE,14,CARDINAL
+Swan,14,PERSON
+Sigmoid,14,PERSON
+up to,14,CARDINAL
+M.D.              Approved,14,PERSON
+STEMI,14,ORG
+PO,14,GPE
+Tumor,14,GPE
+the Attending Radiologist,14,ORG
+Left IJ,14,LOC
+Multiplanar,14,ORG
+s/p RULobectomy,14,ORG
+Vascular,14,PRODUCT
+one hour,14,TIME
+Supine AP,14,ORG
+Multifocal,14,PERSON
+four hours earlier,14,TIME
+Appearance,14,PERSON
+Preop,14,GPE
+Patchy,14,LOC
+CMV,14,ORG
+s/p RIJ,14,ORG
+Swan-Ganz,14,PERSON
+LEFT PANCOAST,14,PERSON
+"PTX
+ Admitting Diagnosis",14,FAC
+Pigtail,13,GPE
+NEEDLE BIOPSY US,13,ORG
+SAH,13,ORG
+A.M.,13,GPE
+s/p LULobectomy,13,ORG
+Amplatz,13,ORG
+Pancoast,13,ORG
+ABDOMEN,13,ORG
+DOE,13,ORG
+Gallbladder,13,PERSON
+Kumpe,13,ORG
+s/p PICC,13,ORG
+s/p Left,13,ORG
+GRE,13,ORG
+ECA,13,ORG
+GUID WIRES,13,ORG
+Glidewire,13,PERSON
+Analysis,13,PRODUCT
+two days ago,13,DATE
+fx,13,ORG
+SCV,13,ORG
+PET/CT,13,ORG
+S/P VATS,13,ORG
+Pathologic,13,ORG
+Hilar,13,NORP
+Slight,13,PRODUCT
+SCC s/p VATS,13,ORG
+LOA,13,ORG
+LLE,13,ORG
+IMPRESSIONS,13,ORG
+AMI,13,ORG
+Stable,12,PRODUCT
+Layering,12,GPE
+jejunum,12,PERSON
+Upright AP,12,ORG
+LEFT LUNG,12,PERSON
+"earlier the same
+ day",12,DATE
+Patchy,12,NORP
+Widespread,12,ORG
+ENDOBRONCHIAL U/S,12,ORG
+UNILAT LOWER EXT VEINS RIGHT                                    Clip,12,ORG
+Intracranial,12,ORG
+the day before,12,DATE
+s/p XRT,12,ORG
+MIDDLE LOBE\BRONCHOSCOPY,12,LOC
+Calcifications,12,PERSON
+at least two,12,CARDINAL
+Lung Ca,12,PERSON
+MRA BRAIN W/O CONTRAST                    Clip,12,ORG
+ET,12,ORG
+LAD,12,ORG
+Selective,12,PERSON
+ER,12,ORG
+Coumadin,12,PERSON
+LE,12,GPE
+Preoperative,12,PERSON
+SEIZURE,12,ORG
+CVL/PICC,12,ORG
+NAUSEA,11,ORG
+Conray,11,ORG
+s/p LUL s/p chest tube,11,ORG
+RCA,11,ORG
+StatLock,11,PRODUCT
+Continuous,11,PERSON
+YO,11,ORG
+s/p RUL resection,11,ORG
+SBR,11,ORG
+FDG TUMOR IMAGING,11,ORG
+Bladder,11,ORG
+Correlate,11,ORG
+NSCLC s/p sx-lap,11,ORG
+Barium,11,GPE
+F,11,ORG
+Prostate,11,ORG
+Bedside AP,11,ORG
+Air-fluid,11,PRODUCT
+Computed,11,PERSON
+nsclc,11,PERSON
+intracranial metastases,11,ORG
+RLL Lobectomy,11,ORG
+morning,11,TIME
+Second,11,ORDINAL
+Fentanyl,11,PERSON
+N/V,11,ORG
+lumbosacral,11,NORP
+osteopenia,11,GPE
+Cavitary,11,NORP
+at least one,11,CARDINAL
+Minimal,11,PERSON
+"LUNG CA/SDA
+  Contrast",11,PERSON
+CONTRASTClip,11,PERSON
+nsclc,10,CARDINAL
+CXR,10,PRODUCT
+DR,10,GPE
+CA p/w,10,ORG
+free fluid,10,PERSON
+MSSA,10,PRODUCT
+NameIs,10,NORP
+ninth,10,ORDINAL
+the previous day,10,DATE
+the prior day's,10,DATE
+Lateral,10,ORG
+ETT,10,LOC
+s/p L.,10,ORG
+Hyperdense,10,ORG
+Mucosal,10,ORG
+PORTABLE AP,10,ORG
+Next,10,ORG
+eight hours,10,TIME
+Vascular,10,LOC
+several days,10,DATE
+Left PIC,10,LOC
+BAL,10,ORG
+FLAIR,10,ORDINAL
+Indeterminate,10,ORG
+Irregular,10,PRODUCT
+SI,10,ORG
+LUNG MASS;CHORD COMPRESSION,10,PERSON
+STitle,10,ORG
+Spleen,10,PERSON
+Subcutaneous,10,PERSON
+Three-minute,10,TIME
+p/w,10,ORG
+hematoma,10,PERSON
+"LUNG CA
+  Contrast",10,PERSON
+NSCL,10,ORG
+"RT LEG ISCHEMIA
+ _",10,ORG
+NSC,10,ORG
+CXR,10,LOC
+s/p Trach,10,ORG
+Exam,10,PERSON
+PLease,10,ORG
+Volumetric CT,10,PERSON
+one week,10,DATE
+BAC,10,ORG
+"the
+ morning",10,LOC
+SG,10,ORG
+last week,10,DATE
+HX,10,GPE
+one day ago,10,DATE
+five hours earlier,10,TIME
+pulmonary,10,PERSON
+Pigtail,10,PERSON
+Subclavian,10,NORP
+Abnormal,10,PERSON
+Persistent,9,PERSON
+"s/p RULobectomy
+ REASON FOR THIS EXAMINATION",9,ORG
+Basal,9,PERSON
+Vicryl,9,ORG
+Aorta,9,PERSON
+previous day,9,DATE
+Dr,9,GPE
+splenomegaly,9,GPE
+s/p CABG/MVR,9,ORG
+LCpc TUE,9,PRODUCT
+mid lung zone,9,GPE
+Ill,9,GPE
+Advanced NSCLC,9,PERSON
+Duplex,9,NORP
+New PICC,9,GPE
+Pericardial,9,ORG
+Physiologic,9,ORG
+RENAL ULTRASOUND,9,ORG
+Stomach,9,PERSON
+three hours earlier,9,TIME
+RLQ,9,ORG
+GUID WIRES INCL INF,9,ORG
+Status,9,ORG
+s/p Vfib,9,ORG
+s/p MVC,9,ORG
+Nasogastric,9,LOC
+two days earlier,9,DATE
+earlier same day,9,DATE
+ESRD,9,ORG
+five,9,CARDINAL
+Opacities,9,WORK_OF_ART
+Unchanged,9,GPE
+Decreased,9,PERSON
+PACS,9,ORG
+"s/p crani
+ REASON FOR THIS EXAMINATION",9,ORG
+Gelfoam,9,PERSON
+at least three,9,CARDINAL
+the Swan-Ganz,9,EVENT
+multiplanar,9,GPE
+hematoma,9,GPE
+Noncontrast CT,9,ORG
+Evidence,9,LOC
+Request,9,ORG
+Residual,9,LOC
+"HIP FRACTURE
+  Contrast",8,ORG
+Cont,8,GPE
+dura,8,NORP
+SMV,8,ORG
+GU,8,ORG
+NSCLC p/w,8,ORG
+hematuria,8,GPE
+Nodular,8,ORG
+mass,8,GPE
+mucus plugs,8,ORG
+LEFT UPPER,8,ORG
+Duplex,8,ORG
+Distal,8,NORP
+EXT VEINS US                                           Clip,8,ORG
+cerebellar mass s,8,PERSON
+one week ago,8,DATE
+CLINICAL INFORMATION & QUESTIONS TO BE ANSWERED,8,ORG
+RA,8,ORG
+Optiray,8,NORP
+Filling,8,ORG
+Standard,8,ORG
+RULectomy,8,ORG
+II,8,CARDINAL
+Thyroid,8,PERSON
+CV,8,ORG
+Pacemaker,8,ORG
+SQ,8,ORG
+BP,8,ORG
+ALS,8,ORG
+Omnipaque,8,PERSON
+"SEIZURE;BRAIN & LUNG MASSES
+  Contrast",8,ORG
+mm,8,PERSON
+cerebellar,8,PERSON
+SBP,8,ORG
+SICU,8,ORG
+PSS WED,8,ORG
+SEL,8,NORP
+Rounded,8,ORG
+LMS,8,ORG
+Calcified,8,ORG
+Cerebellar,8,PERSON
+cerebellar hemisphere,8,PERSON
+DIABETIC,8,ORG
+Streaky,8,PERSON
+multiplanar reformation,8,GPE
+MIP,8,ORG
+TEF,8,ORG
+s/p LAR,8,ORG
+sbo s/p x-lap,8,ORG
+Sterile,8,PRODUCT
+s/p L IJ,8,ORG
+PTX s/p,8,ORG
+PA &,8,ORG
+tonight,8,TIME
+Bifrontal,8,ORG
+Optiray IV,8,PERSON
+Esophageal,8,ORG
+ANEMIA;HYPERCALCEMIA,8,CARDINAL
+CABG,8,ORG
+Jtube,8,PERSON
+LN,8,GPE
+Access,7,PRODUCT
+Lytic,7,NORP
+DLnc MON,7,PERSON
+PMH,7,ORG
+tenth,7,ORDINAL
+Foci,7,ORG
+S/p,7,ORG
+Doppler,7,ORG
+C.,7,NORP
+sulcus,7,GPE
+the past several days,7,DATE
+ERCP,7,ORG
+LOWER EXTREMITY VENOUS ULTRASOUND,7,ORG
+Hepatic,7,LOC
+chemical,7,ORG
+several hours,7,TIME
+approximately one hour,7,TIME
+Hematoma,7,PERSON
+Four,7,CARDINAL
+"BRAIN HERNIATION
+  Contrast",7,ORG
+Atrophic,7,PERSON
+HYPONATREMIA,7,ORG
+Treitz,7,ORG
+Monday,7,DATE
+Pelvic,7,ORG
+CTA ABD W&W/O C & RECONSClip,7,ORG
+BILAT LOWER EXT VEINS                                           Clip,7,ORG
+"the same day
+ earlier",7,DATE
+Incidental,7,ORG
+Ventricular,7,GPE
+seven hours,7,TIME
+Correlate,7,GPE
+Signal,7,ORG
+Atelectasis,7,GPE
+pancreatitis,7,PERSON
+"AMS
+ REASON FOR THIS EXAMINATION",7,ORG
+Evaluate ET,7,ORG
+Bentson,7,PERSON
+MULTIPLANAR,7,ORG
+"the same
+ day",7,DATE
+Airspace,7,PERSON
+lung adenoca,7,PERSON
+EtOH,7,ORG
+Kidneys,7,PERSON
+nsc,7,ORG
+TUBE,7,ORG
+prior day,7,DATE
+afternoon,7,TIME
+six,7,CARDINAL
+same day,7,DATE
+Distal,7,ORG
+IIIA,7,ORG
+IVF,7,ORG
+the Port-A-Cath,7,FAC
+likley,7,PERSON
+Subcarinal,7,PRODUCT
+REASON FOR THIS EXAMINATION,7,ORG
+hydrocephalus s/p VP Shunt,7,ORG
+LOWER EXTREMITY ULTRASOUND,7,ORG
+Tracheostomy,7,GPE
+MED,7,ORG
+PACU,7,ORG
+Atrial,7,ORG
+CTP,7,ORG
+s/p L-thoractomy/LLL,7,ORG
+Renegade,6,PERSON
+Amplatz,6,PERSON
+NSCLC s/p,6,ORG
+Periventricular,6,PRODUCT
+SEIZURE;BRAIN & LUNG,6,ORG
+FEVER,6,ORG
+HCAP,6,ORG
+Bronch,6,PERSON
+Noted,6,ORG
+days,6,DATE
+cub,6,ORG
+appendicitis,6,GPE
+plaese,6,NORP
+"s/p extubation
+ REASON FOR THIS EXAMINATION",6,ORG
+THORACIC,6,ORG
+Assess NG,6,ORG
+VI,6,PERSON
+"RLL
+ Admitting Diagnosis",6,ORG
+ACA,6,ORG
+NON-IONIC,6,ORG
+Aortogram,6,ORG
+lung mass s/p,6,PERSON
+Hounsfield,6,ORG
+Confirm,6,ORG
+w/ SOB,6,PERSON
+Node Biopsy,6,PERSON
+MTT,6,ORG
+EtOH,6,PERSON
+ASL,6,ORG
+Visualized,6,PERSON
+Generalized,6,PERSON
+Recommend,6,ORG
+LAT & OBLIQUE,6,ORG
+Tesla,6,ORG
+Moderate,6,LOC
+Heterogeneous,6,LOC
+Stool,6,GPE
+nectar,6,PERSON
+hemothorax s/p,6,ORG
+Heparin,6,NORP
+s/p wedge resection,6,ORG
+PTX s/p,6,PERSON
+three-minute,6,TIME
+Pneumomediastinum,6,GPE
+Lovenox,6,GPE
+Atherosclerotic,6,ORG
+LIKELY,6,ORG
+coumadin,6,PERSON
+RLL PNA,6,ORG
+XR,6,ORG
+p/w SOB,6,ORG
+s/p PEG,6,ORG
+"CA
+  w/pneumothorax s",6,FAC
+cva,6,ORG
+adeno CA,6,PERSON
+Valsalva,6,PERSON
+hiatal hernia,6,LOC
+SIADH,6,ORG
+s/p bronch & PDT,6,ORG
+"PTX
+ _",6,WORK_OF_ART
+s/p RULectomy,6,ORG
+Basilar,6,GPE
+Fibroid,6,ORG
+s/p occipital crani,6,ORG
+LE,6,WORK_OF_ART
+groin,6,ORG
+several hours earlier,6,TIME
+SCL,6,ORG
+HIDA,6,ORG
+Cystic,6,NORP
+LAD,6,GPE
+apex,6,GPE
+Oropharyngeal,6,NORP
+Vasogenic,6,PERSON
+"earlier the
+ same day",6,DATE
+Appropriate,6,ORG
+six hours earlier,6,TIME
+O.R.,6,ORG
+Normal,6,GPE
+CCY,6,ORG
+EXT VEINS US RIGHT PORT                               Clip,6,ORG
+"LUNG CANCER;HEMOPTYSIS
+  Contrast",6,ORG
+one hour earlier,6,TIME
+Findings,6,GPE
+evening,6,TIME
+w/,6,DATE
+Abnormal,6,PRODUCT
+ICP,6,ORG
+Periventricular,6,PERSON
+Suprasellar,6,PRODUCT
+"cva
+  Contrast",6,ORG
+Sternal,5,ORG
+"LOBE NODULE/SDA
+ Field",5,ORG
+Ommaya,5,PERSON
++IV,5,GPE
+AV,5,ORG
+Embolization,5,WORK_OF_ART
+SOB,5,PERSON
+s/p swan,5,ORG
+Vaxcel,5,PRODUCT
+Fluid,5,PRODUCT
+Unchanged,5,LOC
+Ommaya reservoir,5,ORG
+Lymphoma,5,GPE
+Images,5,ORG
+lung parenchyma,5,PERSON
+CCU,5,ORG
+Helical CT,5,ORG
+Hemothorax,5,ORG
+Hypoxic,5,ORG
+SCLC,5,NORP
+"PTX
+ Admitting Diagnosis",5,PERSON
+HCV,5,ORG
+Mediastinal,5,PERSON
+Lymphangitic,5,LOC
+MRV CHEST W&W/O CONTRAST                                        Clip,5,ORG
+INFECTION;BACK,5,ORG
+Demonstrate,5,ORG
+TBM,5,ORG
+SEPSIS,5,ORG
+STRUCTURE,5,LAW
+Lung CA.,5,PERSON
+four days ago,5,DATE
+s/p R VATS,5,ORG
+hemorrhagic pericarditis,5,PERSON
+UIP,5,ORG
+Punctate,5,ORG
+WAND,5,NORP
+PNX,5,ORG
+Intraventricular,5,PERSON
+Thin,5,ORG
+five days ago,5,DATE
+s/p LUL Lobectomy,5,ORG
+Hypodensities,5,GPE
+UNILAT LOWER EXT VEINS                                          Clip,5,ORG
+LFT,5,ORG
+RECONSTRUCTIONS,5,ORG
+LUNG NODULE,5,PERSON
+JWK FRI,5,ORG
+"CA
+ Admitting Diagnosis",5,FAC
+s/p PA,5,ORG
+seven hours earlier,5,TIME
+"s/p
+  STEMI",5,ORG
+U/S,5,ORG
+facet,5,ORG
+Normal,5,PERSON
+PULMONARY,5,PERSON
+a few hours earlier,5,TIME
+DJD,5,ORG
+REPEAT,5,ORG
+PEL/LOWER EXT,5,ORG
+Lumbar,5,GPE
+STAT,5,ORG
+UNILAT LOWER EXT VEINS LEFT                                     Clip,5,ORG
+RVATS,5,ORG
+this afternoon,5,TIME
+RM,5,GPE
+Cobra,5,PERSON
+PEG,5,PERSON
+ORDER ABD/,5,ORG
+EG,5,GPE
+RENAL,5,PERSON
+s/p SMA,5,ORG
+WF s/p Right VATS,5,ORG
+Diverticulosis,5,ORG
+MAC,5,ORG
+Left CVL,5,PERSON
+s/p cabg,5,ORG
+Rt,5,NORP
+FDG PET,5,ORG
+Routine non-contrast,5,PERSON
+ngt,5,PERSON
+Neurology,5,PERSON
+the morning,5,TIME
+the afternoon,5,TIME
+G/GJ TUBE CHECK,5,ORG
+hx;lung,5,GPE
+Left lung collapse,5,PERSON
+earlier this morning,5,TIME
+Angio-Seal,5,ORG
+NSCLC s/p LUL,5,ORG
+Assess ET,5,ORG
+Hiatal hernia,5,LOC
+Two minutes,5,TIME
+CT L-SPINE W/O CONTRAST                Clip,5,ORG
+ET,5,GPE
+OptEase,5,ORG
+two weeks ago,5,DATE
+Anasarca,5,ORG
+Subarachnoid,5,PERSON
+Cough,5,GPE
+Moderate,5,GPE
+LUL NSCLC s/p LUL,5,ORG
+hypercarbia,5,GPE
+CCC,5,ORG
+Suspect,5,LOC
+Radiopaque,5,NORP
+Large,5,NORP
+Trauma,5,PERSON
+"earlier
+ the same date",5,DATE
+LCpc FRI,5,PRODUCT
+NON-CONTRAST CT,5,ORG
+Ultrasound,5,PERSON
+PM,5,TIME
+NEEDLE BIO,5,ORG
+L PTX s/p Ctube,5,ORG
+DUPLEX,5,ORG
+nine hours,5,TIME
+Today,5,DATE
+Mastoid,5,ORG
+"RLL PNA
+ REASON FOR THIS EXAMINATION",5,ORG
+Evaluate NG,5,ORG
+Nonspecific,5,ORG
+s/p CT pull,5,ORG
+Friday,5,DATE
+Berenstein,5,PERSON
+HCT,5,ORG
+Wedge,5,NORP
+RENAL,5,ORG
+Tube,5,ORG
+carcinoid,5,PERSON
+Lingular,4,ORG
+Nodular,4,NORP
+AFib,4,ORG
+Fluid,4,NORP
+obatin,4,PRODUCT
+STC,4,ORG
+Enteric,4,ORG
+"s/p
+  LUL",4,ORG
+Lung volumes,4,PERSON
+last night,4,TIME
+approximately one hour earlier,4,TIME
+DTI,4,ORG
+FLUOROSCOPY,4,ORG
+RCC,4,ORG
+s/p right lower,4,ORG
+SP,4,NORP
+R.                   MED MICU,4,ORG
+hep C,4,GPE
+"\
+ Admitting Diagnosis",4,PERSON
+GB,4,GPE
+RFA,4,PERSON
+bleedPLEASE PERFORM,4,PERSON
+"CONTROL
+  Contrast",4,ORG
+NSTEMI,4,ORG
+Hepatocellular Ca s/p VATS,4,PERSON
+CMC,4,ORG
+ISCHEMIC BOWEL NOW,4,ORG
+Vague,4,ORG
+"IR
+ _",4,ORG
+delta MS,4,ORG
+Faint,4,FAC
+s/p MVA,4,ORG
+"IR
+ Admitting Diagnosis",4,ORG
+DHFT,4,ORG
+Glidewire,4,ORG
+Loss,4,PERSON
+pancytopenia,4,GPE
+CA  s/p,4,PERSON
+OSH,4,ORG
+Stx Bx,4,PERSON
+L VATS,4,GPE
+CyberKnife,4,ORG
+MPtb MON,4,PERSON
+"ASSESS AIRWAY INVOLVEMENT OF TUMOR
+ Field",4,ORG
+PACU,4,LOC
+"eval PTX
+ Admitting Diagnosis",4,PERSON
+Perihepatic,4,LAW
+"earlier the same
+ date",4,DATE
+SUPINE,4,ORG
+MVC,4,ORG
+ICH s/p,4,ORG
+MPtb SUN,4,PERSON
+Mucosal,4,PERSON
+adenoma,4,GPE
+hemorrhagic metastases,4,ORG
+Color Doppler,4,PERSON
+s/p right pleural tube,4,ORG
+Left,4,ORG
+EET,4,ORG
+ARF,4,ORG
+Arterial,4,ORG
+Afib,4,PERSON
+approximately half,4,CARDINAL
+SCLCA,4,ORG
+HAP,4,ORG
+Left subclavian CV,4,PERSON
+Axially,4,ORG
+Hardware,4,ORG
+Differential,4,GPE
+Bard,4,ORG
+intracranial mass,4,ORG
+"VATS
+  + LUL",4,ORG
+CA,4,PRODUCT
+Edema,4,PERSON
+LAD s/p,4,ORG
+bilat,4,GPE
+approximately two hours,4,TIME
+Dipyridamole,4,PERSON
+Gynecomastia,4,PERSON
+Abrupt,4,PERSON
+Adrenal,4,ORG
+L CT,4,ORG
+PEL,4,ORG
+ORDER BRANCH,4,ORG
+Internal Medicine,4,ORG
+STENT,4,PERSON
+nsclc s/p,4,PERSON
+L PTX,4,ORG
+NC,4,GPE
+S/P MVR,4,ORG
+MPR,4,ORG
+pleura,4,GPE
+FILM,4,PERSON
+Blood,4,FAC
+Persisting,4,GPE
+PNTX,4,ORG
+LEFT LOWER EXTREMITY ULTRASOUND,4,ORG
+LEFT,4,LOC
+Lymphadenopathy,4,PERSON
+S/P STENT,4,ORG
+ABI,4,ORG
+s/p cabg s/p sternal,4,ORG
+"LUNG CA/SDA
+ Field",4,PERSON
+Please,4,ORG
+"s/p
+  doxycycline",4,ORG
+UE,4,GPE
+MCP,4,ORG
+later this week,4,DATE
+Dopplers,4,ORG
+Metastasis,4,ORG
+hep gtt,4,PERSON
+A third,4,CARDINAL
+pleural effuison,4,PERSON
+scan,4,GPE
+Left hemidiaphragm,4,PERSON
+Surgical,4,LOC
+Stable,4,ORG
+Hypoxia,4,GPE
+PICA,4,ORG
+SVC,4,PRODUCT
+Mildly,4,GPE
+s/p LLLobectomy,4,ORG
+"IPF
+  exacerbation",4,ORG
+baseline lung,4,PERSON
+RML/RLL,4,ORG
+Coronally,4,NORP
+POst,4,ORG
+HCP,4,ORG
+SVT,4,ORG
+Cholecystostomy,4,NORP
+craniocaudad,4,GPE
+PA,4,GPE
+s/p crani,4,ORG
+Interlobular,4,NORP
+F w/,4,PRODUCT
+pleural fluid,4,ORG
+PTT,4,ORG
+L SC,4,ORG
+Baseline,4,PERSON
+intracranial,4,ORG
+Magnevist,4,NORP
+Renal,4,PERSON
+SFV,4,ORG
+CFV,4,ORG
+Fatigue,4,PERSON
+Presumed,4,NORP
+s/p LVATS,4,ORG
+Superimposed,4,ORG
+Scattered,4,ORG
+"GUID WIRES INCL INF                                                    *
+ *",4,ORG
+ten days ago,4,DATE
+MR CONTRAST GADOLIN                        Clip,4,ORG
+Ascites,4,NORP
+Facet,4,ORG
+ABDOMINAL PAIN,4,PERSON
+pleural fluid,4,GPE
+s/p L VATS,4,ORG
+earlier today,4,DATE
+s/p right crani,4,ORG
+Attempts,4,PRODUCT
+HYPOXIA,4,ORG
+bas,4,PERSON
+Coumadin,4,GPE
+"CA
+ REASON",4,PRODUCT
+J.                    NSURG,4,PERSON
+NP,4,ORG
+Upper,4,GPE
+soB,4,ORG
+THORAX,4,GPE
+"the Attending
+ Radiologist",4,ORG
+Query,4,ORG
+"LUNG CA
+ Admitting Diagnosis",4,PERSON
+FNH,4,ORG
+"LEG INFRACTION;RULE OUT TUBERCULOSIS
+  Contrast",4,ORG
+L Chest,4,ORG
+"CA
+  Contrast",4,ORG
+Hemothorax,4,PERSON
+Visualized,4,ORG
+s/p Right,4,ORG
+tardus,4,NORP
+CCC,4,GPE
+MVA,4,ORG
+Bibasal,4,PERSON
+NSIP,4,ORG
+s/p extubation,4,ORG
+MSSA,4,ORG
+Left Lower,4,ORG
+vermian,4,NORP
+Background,4,FAC
+DIC,4,ORG
+s/p L SC,4,ORG
+one-third,3,CARDINAL
+Doboff,3,PERSON
+several cm,3,QUANTITY
+SINGLE AP PORTABLE,3,ORG
+P.M.,3,GPE
+Asymmetrical,3,ORG
+Left lung base,3,PERSON
+Air,3,ORG
+NCSLC,3,ORG
+RMLobe,3,ORG
+Doubt,3,ORG
+LE,3,ORG
+Check NG,3,ORG
+COPD s/p,3,ORG
+six days ago,3,DATE
+cm,3,PERSON
+Abscess,3,PERSON
+"L
+  Contrast",3,ORG
+L Subclavian,3,NORP
+NRB,3,ORG
+Left groin,3,LOC
+s/p l,3,ORG
+"CXR
+  Contrast",3,ORG
+Rightward,3,LOC
+CareWeb,3,ORG
+Stage IV NSCLC,3,ORG
+RV,3,PERSON
+EGD,3,ORG
+ELEVATED,3,ORG
+several minutes,3,TIME
+Infection,3,ORG
+intracranial pathology,3,ORG
+several hours ago,3,TIME
+PIP,3,ORG
+Linear,3,FAC
+Stage IA LLL,3,ORG
+CT of,3,ORG
+Onsite,3,ORG
+Leftward,3,PERSON
+Thoracotomy,3,PERSON
+AVR,3,ORG
+CT GUIDED NEEDLE PLACTMENT           Clip,3,ORG
+Status post MI,3,ORG
+Lobulated,3,PERSON
+One day,3,DATE
+eval hematoma,3,PERSON
+"SVC
+ Admitting Diagnosis",3,WORK_OF_ART
+Consideration,3,ORG
+LEFT UPPER EXTREMITY ULTRASOUND,3,ORG
+ML,3,ORG
+Opacity,3,ORG
+Adenopathy,3,PERSON
+Mult,3,PERSON
+Multiple CT,3,ORG
+Biapical,3,ORG
+LLL Ca s/p LL,3,PERSON
+"n/v
+ REASON FOR THIS EXAMINATION",3,ORG
+Solitary,3,ORG
+Gastric,3,ORG
+Subcarinal,3,NORP
+NSCLC s/p XRT,3,ORG
+PERFOM,3,ORG
+one month,3,DATE
+Tracer,3,PRODUCT
+Tracheostomy,3,PERSON
+post obstructive pna &,3,ORG
+Superficial,3,ORG
+"S/P
+ Admitting Diagnosis:",3,ORG
+Sequelae,3,PERSON
+NONE,3,ORG
+UPPER EXTREMITY ULTRASOUND,3,ORG
+Left PTX,3,PERSON
+Bilateral,3,NORP
+two minutes,3,TIME
+Cough,3,ORG
+CABG,3,LAW
+LUNG METS EVAL,3,PERSON
+Keppra,3,PERSON
+MRSA,3,ORG
+s/p IVC,3,ORG
+GU,3,PERSON
+Aortic,3,ORG
+LLL PNA,3,ORG
+DM,3,ORG
+Lovenox,3,PERSON
+CareWeb,3,PRODUCT
+"s/p CABG
+ REASON FOR THIS EXAMINATION",3,ORG
+two weeks,3,DATE
+emphysema s/p LUL,3,PERSON
+Prolene,3,PERSON
+hemothorax s/o,3,PERSON
+hemorrhagic,3,PERSON
+EGFR,3,PERSON
+"PCP PNA
+ REASON FOR THIS EXAMINATION",3,ORG
+Alveolar,3,ORG
+CABG,3,NORP
+"MRA NECK W&W/O CONTRAST
+ Reason",3,ORG
+s/p IVF,3,ORG
+friday,3,DATE
+L MCA,3,ORG
+KNEE,3,ORG
+NON-CONTRAST CT OF THE CHEST,3,ORG
+At least one,3,CARDINAL
+P Pericardial,3,ORG
+FLAIR,3,WORK_OF_ART
+the nasopharynx,3,DATE
+CTAassess,3,ORG
+aorta,3,PERSON
+oropharynx,3,GPE
+Bronchiectasis,3,ORG
+lung SCC s/p,3,ORG
+VENOUS,3,ORG
+the brachiocephalic vein,3,ORG
+mannitol,3,ORG
+approximately six hours earlier,3,TIME
+Elevated,3,ORG
+ATELECTASIS,3,ORG
+FDG PET-CT,3,ORG
+Palatal,3,ORG
+this date,3,DATE
+UPRIGHT AP CHEST,3,ORG
+tibia,3,GPE
+Marrow,3,GPE
+s/p RL,3,ORG
+MS,3,GPE
+"s/p RUL
+ REASON FOR THIS EXAMINATION",3,ORG
+cerebellar infarct -,3,PERSON
+ICU,3,LOC
+hepatic metastases,3,ORG
+multiplanar reformats,3,GPE
+JP,3,ORG
+Left pleural effusion,3,LOC
+"GB
+  Contrast",3,ORG
+Five,3,CARDINAL
+Three hours,3,TIME
+approximately five hours earlier,3,TIME
+cardiac,3,ORG
+Curvilinear,3,PERSON
+Abnormal,3,LOC
+Neutropenic,3,ORG
+year-old,3,DATE
+Apical,3,PRODUCT
+nsclc s/p embolization,3,PERSON
+LUNG CANCER,3,PERSON
+IMI,3,ORG
+hemorrhagic pericardial effusion,3,ORG
+s/p STEMI,3,ORG
+"s/p
+  pericardial drain placement",3,ORG
+OR,3,PRODUCT
+LEFT                                Clip,3,PERSON
+Mitral,3,GPE
+Diagnostic,3,ORG
+CTA ABD W&W/O C & RECONS                  Clip,3,ORG
+Subacute,3,PERSON
+recent fall,3,DATE
+aortoenteric fistula,3,PERSON
+F w,3,PRODUCT
+PTX,3,FAC
+mult lung,3,PERSON
+Limited CT,3,ORG
+VERTEBROPLASTY,3,ORG
+a.m.,3,TIME
+EIA,3,ORG
+CIA,3,ORG
+Earlier same day,3,DATE
+EXT VEINS US,3,ORG
+ETOH,3,ORG
+NON-CONTRAST,3,ORG
+LLLobectomy,3,ORG
+FATIGUE,3,ORG
+exactly?Any hematoma,3,LOC
+Port-A-Cath,3,WORK_OF_ART
+NSurg,3,GPE
+LULobectomy,3,ORG
+s/p p-fossa crani,3,ORG
+APC/ Electrocautery,3,ORG
+Accurate,3,ORG
+Kerley,3,ORG
+IIA,3,ORG
+at least four,3,CARDINAL
+Vacuum,3,PERSON
+Cancer,3,PERSON
+"s/p RLLobectomy
+ REASON FOR THIS EXAMINATION",3,ORG
+M.D.,3,GPE
+Left lingula mass-like,3,PERSON
+Left lung,3,LOC
+NI,3,GPE
+L,3,ORG
+Hemorrhagic,3,ORG
+LSC,3,ORG
+Non-contrast,3,ORG
+IVC/SVC,3,ORG
+Non-ionic,3,ORG
+s/p p,3,ORG
+s/p LUL s/p chest,3,ORG
+LENI,3,ORG
+University/College,3,ORG
+CA s/p,3,PERSON
+BILATERAL LOWER EXTREMITY ULTRASOUND,3,ORG
+Tachycardia,3,GPE
+"DM, HTN",3,ORG
+foley,3,PERSON
+Biapical,3,PERSON
+A-GRAM      *,3,PRODUCT
+Series,3,EVENT
+Staging CT,3,ORG
+GNR,3,ORG
+CA s/p VATS RLL,3,ORG
+MI,3,ORG
+SDH,3,ORG
+Six,3,CARDINAL
+Pneumoperitoneum,3,ORG
+Pelvic,3,PRODUCT
+Catheter,3,PERSON
+Subcentimeter,3,PRODUCT
+bony metastases,3,ORG
+Left middle lung,3,LOC
+acute MI,3,ORG
+Neutropenia,3,GPE
+"CXR
+ Admitting Diagnosis",3,ORG
+Cantonese,3,LANGUAGE
+O.R.                                     Clip,3,ORG
+Angiocath,3,NORP
+PAIN,3,ORG
+METS,3,ORG
+Evaluate OG,3,LOC
+RIGHT UPPER EXTREMITY ULTRASOUND,3,ORG
+s/p mva,3,ORG
+"the previous
+ day",3,DATE
+Renal,3,ORG
+Nodules,3,ORG
+"s/p
+  extubation",3,ORG
+h/o HTN,3,ORG
+O.R.                                                 Clip,3,FAC
+Cardiomediastinum,3,ORG
+diverticuli,3,GPE
+P.M.,3,PERSON
+Linear,3,LOC
+EYeh,3,PERSON
+Abscess,3,PRODUCT
+Recommend followup CT,3,ORG
+RUQ US,3,ORG
+s/p PEA,3,ORG
+Cerebral,3,ORG
+Diverticula,3,PERSON
+Porta,3,GPE
+NSCLC/SCLC p/w,3,ORG
+"RIJ
+ _",3,LAW
+AC,3,ORG
+french,3,NORP
+the day earlier,3,DATE
+"LEFT
+ Reason",3,PERSON
+"S/P FALL
+ _",3,ORG
+cardiac silhouette,3,ORG
+"IP
+ Admitting Diagnosis: CENTRAL AIRWAY",3,ORG
+LEFT                                           Clip,3,PERSON
+NEUTRAL & AXILLARY,3,ORG
+approximately two-thirds,3,CARDINAL
+FX,3,ORG
+Renegade STC,3,PERSON
+widespread hepatic metastases,3,ORG
+Mediastinal,3,LAW
+approximately three hours,3,TIME
+Constellation,3,PRODUCT
+"SVC
+  Contrast",3,ORG
+BARIUM ESOPHAGOGRAM,3,ORG
+"s/p Left Pneumonectomy
+ REASON FOR THIS EXAMINATION",3,ORG
+RUL,3,ORG
+KKgc FRI,3,PERSON
+Legionella,3,PERSON
+Recurrent,3,LOC
+SUPINE AP OF THE CHEST,3,ORG
+@@@@@@@@@@@@@@,3,PERSON
+CA w/,3,PERSON
+"s/p LULobectomy
+ REASON FOR THIS EXAMINATION",3,ORG
+Hemoptysis,3,ORG
+GAD,3,ORG
+d/w Dr.,3,ORG
+SCC,3,ORG
+hygromas,3,PERSON
+Intra,3,NORP
+Left thyroid nodule,3,LOC
+IPH,3,ORG
+Mild emphysema,3,PERSON
+PACU,3,GPE
+HLD,3,ORG
+SOB s/p,3,ORG
+DLnc FRI,3,PERSON
+Central,3,LOC
+CTA ABD W&W/O C & RECONS                   Clip,3,ORG
+DL RUE PICC,3,ORG
+Stage III NSCLC,3,ORG
+JRld,3,PERSON
+Decubitus,3,ORG
+LUNG SCAN                                                       Clip,3,PERSON
+L CP,3,GPE
+DTPA Aerosol,3,PERSON
+"PTX
+ Admitting Diagnosis",3,WORK_OF_ART
+Rlung,3,GPE
+Surgery,3,PERSON
+carcinoma s/p,3,ORG
+RL,3,ORG
+"NON-CORONARY
+ Reason: Please",3,ORG
+brachiocephalic vein,3,ORG
+three days earlier,3,DATE
+DFDkq,3,CARDINAL
+CA w/,3,ORG
+Carcinoma,3,PERSON
+Observe,3,LOC
+months,3,DATE
+RECURRENT,3,GPE
+s/p R Thoracotomy (Redo,3,ORG
+Empyema,3,PERSON
+several months,3,DATE
+VENOUS RECANULATION                                             Clip,3,ORG
+MORTISE & LAT,3,ORG
+s/p chemo & Y-stent,3,ORG
+NG,3,FAC
+Pneumonia,3,PERSON
+OC & RECONS,3,ORG
+ABDOMINAL ULTRASOUND,3,ORG
+The Swan-Ganz,3,WORK_OF_ART
+L-Sacral,3,ORG
+Ovoid,3,ORG
+HASTE,3,ORG
+groin hematoma,3,PERSON
+basilic vein,3,ORG
+last month,3,DATE
+Goretex,3,ORG
+Anesthesia,3,GPE
+Wednesday,3,DATE
+s/p CABG,3,ORG
+RENAL FAILURE;PNEUMONIA,3,ORG
+UPJ,3,PERSON
+Symmetric,3,ORG
+Hazy,3,ORG
+MVR,3,ORG
+HO,3,ORG
+"pna/BPF
+ REASON FOR THIS EXAMINATION",3,ORG
+One day earlier,3,DATE
+Trapease,3,ORG
+"Left
+ PICC",3,FAC
+Left ICA aneurysmAnesthesia,3,LOC
+cerebellar masses,3,ORG
+Left subclavian CV,3,FAC
+Aortogram,3,LOC
+Glide,3,PERSON
+s/p CT-guided,3,ORG
+anomaly,3,GPE
+s/p ET,3,ORG
+Left subclavian,3,LOC
+nine hours earlier,3,TIME
+ON AIRBORNE PRECAUTIONS,3,ORG
+RLE,3,ORG
+PTCA,3,ORG
+Thyroid,3,ORG
+subQ,2,PERSON
+L Ant,2,GPE
+d/w dr,2,ORG
+CSRU,2,GPE
+Opacification of the right hemithorax,2,WORK_OF_ART
+UNILATERAL,2,ORG
+node,2,PERSON
+SEPTIC,2,ORG
+Ventricle,2,ORG
+CT THORACENTESIS W/TUBE PLACMENTClip,2,ORG
+five days,2,DATE
+AR,2,ORG
+Sulfur Colloid,2,PERSON
+Egg Whites,2,PERSON
+CT-GUIDED BIOPSY,2,ORG
+four days earlier,2,DATE
+the PET CT,2,ORG
+REWIRED.TO,2,PRODUCT
+S/P RLL,2,ORG
+Ca s/p,2,PRODUCT
+lobe emphysema,2,PERSON
+Left IJ,2,PRODUCT
+Hilal,2,PERSON
+Opacity,2,LOC
+PA & LATERAL CHEST:,2,ORG
+Left ICA,2,PERSON
+Moderate,2,NORP
+Mucus,2,ORG
+Intraparenchymal,2,PERSON
+MR,2,GPE
+Confirm ET,2,ORG
+CAROTID A-GRAM,2,ORG
+Picc,2,PERSON
+Four hours,2,TIME
+abnormal xray,2,ORG
+D.,2,NORP
+Replacement,2,GPE
+carcinoma p/w,2,ORG
+V Leiden,2,PERSON
+LUNG CA - ?,2,PERSON
+hemangioma,2,GPE
+INCL,2,ORG
+Orthopedic,2,PERSON
+Pleurx,2,NORP
+OG TUBE,2,ORG
+NECK,2,ORG
+Gram,2,EVENT
+sequelae,2,ORG
+Eight,2,CARDINAL
+Cape,2,LOC
+parenchymal metastases,2,ORG
+earlier this date,2,DATE
+Visipaque,2,ORG
+chin tuck,2,PERSON
+"rad
+ Admitting Diagnosis:",2,PERSON
+"RT mapping/planning
+ Admitting Diagnosis",2,ORG
+RESPIRATORY DISTRESS,2,ORG
+Polyradiculopathy,2,PERSON
+hemisph,2,PERSON
+hte,2,ORG
+"s/p stent
+ REASON FOR THIS EXAMINATION",2,ORG
+TONIGHT,2,TIME
+septum,2,GPE
+EYeh,2,PRODUCT
+Compression of the fourth,2,WORK_OF_ART
+WAND,2,LOC
+Hemorrhagic CVA,2,PERSON
+PNEUMO,2,ORG
+weeks,2,DATE
+W/ AP,2,ORG
+Vertebroplasty,2,PERSON
+"NSCLC s/p spinal fusion
+ REASON FOR THIS EXAMINATION",2,ORG
+"SOB
+ REASON FOR THIS EXAMINATION",2,WORK_OF_ART
+PMMA,2,ORG
+pleura.,2,GPE
+PRLX,2,ORG
+thalami,2,GPE
+L.,2,ORG
+bt,2,GPE
+Thick,2,PRODUCT
+later in the day,2,TIME
+"Subcutaneous
+ emphysema",2,PERSON
+Kkaliannan,2,PERSON
+one year,2,DATE
+Evaluate L,2,ORG
+S/P LLL,2,ORG
+SVT,2,GPE
+HCC,2,ORG
+L TKA,2,ORG
+Omniflush,2,PERSON
+lung ca,2,PERSON
+"GDA per IR
+ Admitting Diagnosis: UPPER GI BLEED
+  Contrast",2,ORG
+PUD,2,ORG
+NSCLC s/p bronchial artery embolization,2,ORG
+post embolization angiogram,2,EVENT
+Rapidly,2,ORG
+UPPER EXTREMITY VENOUS ULTRASOUND,2,ORG
+EXT VEINS US PORT,2,ORG
+empyema,2,PERSON
+Statlock,2,PRODUCT
+s/P Pericardial,2,ORG
+bronchial carcinoid s/p L,2,ORG
+S/P COLECTOMY WITH FEVER,2,ORG
+SOS,2,ORG
+RT LUNG EMPYMA,2,PERSON
+"PO
+ Admitting Diagnosis",2,FAC
+SHOULDER,2,ORG
+Hyperintense,2,ORG
+s/p RML/RLL,2,ORG
+s/p Dobhoff,2,ORG
+LULectomy,2,ORG
+Angioseal,2,PERSON
+PULMONARY EMBOLISM,2,PERSON
+IJ Cordis,2,PERSON
+Instrument,2,ORG
+cantonese,2,NORP
+Progressive,2,ORG
+approximately four hours,2,TIME
+FDG-PET,2,ORG
+SFA,2,ORG
+"CKI
+ REASON",2,PRODUCT
+Left CT,2,ORG
+Melena,2,PERSON
+"INR
+  Contrast",2,ORG
+YR,2,GPE
+LUNG MASS-S/P CHEMO/RAD,2,PERSON
+FDG PET CT,2,ORG
+a day ago,2,DATE
+swan,2,NORP
+six weeks ago,2,DATE
+"C.
+  Diff",2,PERSON
+Lung CA s/p CABG/Mediastinal Lymph Node,2,PERSON
+GIB s/p L-IJ,2,ORG
+EFFUSION,2,GPE
+STABLE,2,ORG
+dx'd,2,GPE
+Remote,2,ORG
+Emboli,2,PERSON
+MPOWELL,2,ORG
+the second half,2,DATE
+"Final
+ internal length",2,ORG
+AML,2,ORG
+"neuro rad bx
+ Admitting Diagnosis",2,PERSON
+two and a half,2,DATE
+later today,2,TIME
+gastric,2,ORG
+Postoperative,2,GPE
+SUQ,2,GPE
+LAD,2,PERSON
+s/p RUlobectomy,2,ORG
+s/p fall,2,MONEY
+PA & LATERAL,2,ORG
+S/P PICC,2,ORG
+Tesla,2,NORP
+"SVC
+ REASON FOR THIS EXAMINATION",2,LOC
+LAP,2,ORG
+Option,2,LOC
+five minutes,2,TIME
+Retroperitoneal,2,ORG
+Nodules,2,GPE
+VQ,2,ORG
+NP Gouping,2,ORG
+TF,2,GPE
+SMART,2,ORG
+PTA,2,ORG
+EYeh d/w IV,2,ORG
+INTRAVENOUS,2,PERSON
+Suspicious,2,PERSON
+PTXes,2,ORG
+Paranasal,2,ORG
+PNT,2,ORG
+Asses,2,ORG
+CT GUIDED NEEDLE PLACTMENT    Clip,2,ORG
+Endoscopy,2,ORG
+"the
+ Attending Radiologist",2,ORG
+ED,2,GPE
+Malignant,2,ORG
+via,2,PERSON
+LULobectomy,2,PERSON
+Left Basilic PICC,2,ORG
+SCLung CA,2,PERSON
+Multidetector CT,2,ORG
+pleura,2,PERSON
+PEG Tube,2,ORG
+W.                NMED,2,PERSON
+Cervical,2,ORG
+"four
+ days",2,DATE
+"cardiomegaly and/or
+ pericardial effusion",2,WORK_OF_ART
+s/p brain,2,ORG
+motion and contrast bolus,2,ORG
+Differential,2,LOC
+one year ago,2,DATE
+CT BRAIN PERFUSION                   Clip,2,ORG
+NHL,2,ORG
+FDG-PET CT,2,ORG
+s/p LULobectomy  s/p CT,2,ORG
+Trace,2,GPE
+the past four days,2,DATE
+Foci,2,GPE
+Hematocrit,2,ORG
+S/P BILAT,2,ORG
+s/p d/c',2,ORG
+Diagnostic,2,LOC
+pneumocephaly,2,GPE
+Confirmation,2,ORG
+W.                NMED SICU-A,2,PERSON
+LCpc MON,2,PRODUCT
+pleural metastases,2,ORG
+Routine CTA,2,PERSON
+Communicated,2,ORG
+DFDdp,2,PERSON
+Upper GI,2,FAC
+middle lung zone,2,GPE
+evd,2,NORP
+"SOB
+ Admitting Diagnosis",2,ORG
+ABSCESS/ & LUNG CA,2,ORG
+a week,2,DATE
+cvl.to,2,ORG
+Focus of FLAIR,2,ORG
+Two hours,2,TIME
+Left IJ CVL,2,PERSON
+MR ABD W&W,2,ORG
+phlegmon,2,ORG
+W/,2,GPE
+Uterus,2,GPE
+PTX -obatin,2,PERSON
+acute intrathoracic,2,ORG
+LUNG CA LUNG,2,PERSON
+s/p VATS LLL,2,ORG
+PA & LATERAL CHEST,2,ORG
+"Tarceva
+ No",2,LOC
+Lat Decub,2,PRODUCT
+ASSESS,2,ORG
+"Tarceva
+ REASON FOR THIS EXAMINATION",2,LOC
+Gad,2,PERSON
+Tachypnea,2,ORG
+TSICU,2,ORG
+Cord,2,PERSON
+Single,2,NORP
+pneumnia,2,GPE
+Omni Flush,2,ORG
+"s/p pneumoectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+intracranial masses,2,ORG
+"S/P RUL SLEEVE RESECTION OF CARINAs
+
+ REASON FOR THIS EXAMINATION",2,ORG
+F w/st III,2,PRODUCT
+PLACEMENT,2,PERSON
+"s/p r upperlobectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+"s/p RML/RLLobectomy
+ Admitting Diagnosis: RIGHT LUNG CA/SDA
+ _",2,ORG
+"TOMPONADE
+  Contrast",2,ORG
+MR CONTRAST GADOLIN                       Clip,2,ORG
+StatLocked,2,PRODUCT
+s/p cvl & thoracotomy,2,ORG
+s/p sternotomy & exploration,2,ORG
+intraparenchymal hematoma,2,PERSON
+NEBH,2,ORG
+"VAP
+ Admitting Diagnosis",2,PERSON
+Max,2,PERSON
+MR CONTRAST GADOLIN     Clip,2,ORG
+HASTE,2,GPE
+"NG
+ Admitting Diagnosis",2,FAC
+pna p/w,2,ORG
+Uncomplicated,2,ORG
+S/P CABG,2,ORG
+Seldinger,2,PERSON
+HOURS,2,ORG
+COMPLETE,2,ORG
+Left lung mass,2,LOC
+LEFT                                   Clip,2,PERSON
+s/p RIGHT,2,ORG
+Mediastinoscopy,2,PRODUCT
+new hematoma,2,GPE
+Exchange,2,ORG
+"s/p rt pneumonectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+neuro exam,2,PERSON
+Left VATS,2,LOC
+LOC,2,ORG
+subQ emphysema,2,PERSON
+Amplatzer,2,PRODUCT
+Ischemic,2,NORP
+Uncomplicated IVC,2,ORG
+MRI Liver TODAY,2,WORK_OF_ART
+GU,2,GPE
+BLADDER & RENAL,2,ORG
+Five mm,2,QUANTITY
+six days,2,DATE
+the MR,2,ORG
+the last four days,2,DATE
+Biopsy,2,PERSON
+VATS & decortication,2,ORG
+"Rt Cerebellar Mass
+ REASON FOR THIS EXAMINATION",2,ORG
+the Attending Neuroradiologist,2,ORG
+the mastoid air cells,2,ORG
+Only one,2,CARDINAL
+wheezing s/p,2,PERSON
+PP,2,NORP
+GBM,2,ORG
+Mild fluid,2,PERSON
+hemangioblastoma,2,ORG
+PVD,2,ORG
+Lupron,2,GPE
+s/p r. upper,2,ORG
+cm above carina,2,PERSON
+Cerebellar,2,ORG
+AMS s/p NG,2,ORG
+RIJ Swan,2,ORG
+EU,2,ORG
+s/p LIJ,2,ORG
+OR,2,GPE
+midnight,2,TIME
+Encephalomalacia,2,PERSON
+Radiology,2,GPE
+R Lung,2,PERSON
+bilobar pneumonia,2,ORG
+hematoma around,2,PERSON
+n/v,2,ORG
+Post,2,ORG
+the cul-de-sac,2,FAC
+CT Chest,2,ORG
+Chiba,2,ORG
+DVT for PICC,2,ORG
+s/p chemo/radiation,2,ORG
+Tiny,2,GPE
+Request,2,PERSON
+Interstitial,2,ORG
+w/ inc hypoxia,2,ORG
+CAROTID,2,PERSON
+Septic,2,PRODUCT
+"CVA
+  Contrast",2,ORG
+Hemorrhagic,2,PERSON
+CV,2,GPE
+Thrombi,2,GPE
+"DVT
+ REASON FOR THIS EXAMINATION",2,PRODUCT
+s/p C-spine,2,ORG
+s/p ETT exchange,2,ORG
+Lateral,2,PERSON
+MPRAGE,2,ORG
+h.o.,2,GPE
+early this afternoon,2,TIME
+RLQ ABD PAIN,2,ORG
+plaese obatin,2,PERSON
+LEFT LATERAL,2,PERSON
+BLjb FRI,2,ORG
+ABDOMINAL FLUORO,2,PERSON
+VI,2,ORG
+RLLobectomy,2,ORG
+s/p open,2,ORG
+Segment IV Hepatic Resection,2,ORG
+post-IV,2,ORG
+PTX s/p CT pull,2,ORG
+PCA,2,ORG
+Hyperdensity,2,PERSON
+Bronchial Atrtery Embolization,2,ORG
+"CA
+ REASON FOR THIS EXAMINATION",2,FAC
+POT,2,ORG
+Level IIB,2,PERSON
+the septum pellucidum,2,ORG
+CA        s/p R IJ,2,PRODUCT
+"s/p fall
+ REASON FOR THIS EXAMINATION",2,ORG
+NSCLC s/p bronchoscopy/debulking c/b airway perforation,2,ORG
+BILATERAL UPPER EXTREMITY ULTRASOUND,2,ORG
+GALLBLADDER SCAN                                                Clip,2,ORG
+Berenstein,2,ORG
+"RVR
+ REASON FOR THIS EXAMINATION",2,ORG
+s/p stent,2,ORG
+OPACITY &,2,ORG
+layering pleural fluid,2,ORG
+TRANSLUM ANGIO,2,ORG
+ABD/PELClip,2,ORG
+the Right middle and Lower,2,WORK_OF_ART
+Confirm NG,2,ORG
+p/w GI,2,ORG
+Increasing,2,GPE
+SUPINE AP CHEST,2,ORG
+eight minutes,2,TIME
+DUPLEX DOP ABD/,2,ORG
+Swan,2,GPE
+PORTABLE AP SUPINE CHEST,2,ORG
+Extensive L,2,ORG
+Semiupright AP,2,ORG
+LLL,2,PERSON
+Debris,2,PERSON
+and/or hematoma,2,PERSON
+Sternotomy,2,PERSON
+"the p
+ Admitting Diagnosis",2,GPE
+"the
+ PICC",2,LOC
+pleural air,2,GPE
+L,2,LOC
+Wallstent,2,ORG
+s/p Low,2,ORG
+Transcatheter,2,ORG
+XRT,2,PERSON
+Pleasea,2,ORG
+Radiographic,2,PERSON
+AIBP,2,ORG
+swan tip placement.also,2,WORK_OF_ART
+ischemic v. colitis earlier,2,PERSON
+III,2,ORG
+foci,2,GPE
+PTX s/p chest tube,2,ORG
+YRS,2,ORG
+Advanced,2,PERSON
+SBT,2,ORG
+Hematocrit,2,PRODUCT
+Assessment,2,PERSON
+ATN,2,ORG
+cvl,2,PRODUCT
+Hypotensive,2,ORG
+Sestamibi,2,PERSON
+CareWeb,2,PERSON
+DDD,2,PERSON
+s/p RMLobectomy and CT,2,ORG
+VA,2,GPE
+about half,2,CARDINAL
+Comparisons,2,PERSON
+A-GRAM                *,2,PRODUCT
+CA,2,CARDINAL
+GI Bleed,2,ORG
+"LLLobectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+S/p swan-ganz,2,ORG
+"RLLobectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+LEFT PLEURAL EFFUSION,2,ORG
+earlier in the same day,2,DATE
+s/p RLL Lobectomy,2,ORG
+PE aortic dissection,2,ORG
+Clip,2,ORG
+s/p CABG s/p recent,2,ORG
+HEM/PERTI,2,ORG
+VT s/p ICD/PCM,2,ORG
+MRSA PNA,2,ORG
+BAL,2,PERSON
+Mesenteric,2,ORG
+POE,2,ORG
+J.,2,PERSON
+pneumona,2,GPE
+VATS RLL,2,ORG
+EFFUSION\PLEUR-X,2,PERSON
+PD,2,GPE
+Chest x-Ray,2,PRODUCT
+LLQ,2,ORG
+POST OP ABDOMINAL SURGERY.NOW,2,ORG
+the evening,2,TIME
+SINGLE AP SUPINE CHEST,2,ORG
+PACU--,2,CARDINAL
+a few months ago,2,DATE
+LEFT                              Clip,2,PERSON
+Dilute Gastrografin,2,PERSON
+GT,2,GPE
+monday,2,DATE
+Comparison AP,2,ORG
+s/p IP,2,ORG
+Parenchymal,2,ORG
+J.                    NSURG TSICU,2,PERSON
+CKD,2,ORG
+Port-a-Cath,2,FAC
+Schedule Exam,2,ORG
+Needle,2,PERSON
+sup seg,2,PRODUCT
+s/p biopsy and,2,ORG
+Left Lower,2,FAC
+lobecectomy & chest wall resection ribs,2,ORG
+"IR b
+ Admitting Diagnosis",2,ORG
+Nasoenteric,2,GPE
+cardiomeg,2,PERSON
+Gastrografin,2,NORP
+LEFT PORT                                      Clip,2,PERSON
+c. diff,2,PERSON
+The Swan-Ganz,2,ORG
+ABG,2,ORG
+Primary,2,PERSON
+JWK TUE,2,PERSON
+Initial AP,2,ORG
+"mesenteris ischemia
+  Contrast",2,ORG
+Multilobar,2,GPE
+Unclear,2,ORG
+clavian,2,NORP
+CXR POD,2,ORG
+Swan Ganz,2,PERSON
+s/p  RIJ,2,ORG
+basilic PICC,2,ORG
+BOLD,2,PRODUCT
+PE/Pulmonary,2,ORG
+WWM FRI,2,ORG
+Lat,2,PERSON
+Vanc/Cefepime?Flagyl,2,ORG
+Intraspinal,2,ORG
+Standard PA &,2,ORG
+Associated,2,ORG
+ECF,2,ORG
+eleventh,2,ORDINAL
+influenza,2,PERSON
+acute u/o drp[//acute,2,ORG
+LEFT LOWER EXTREMITY DOPPLER ULTRASOUND,2,ORG
+Advancement of Swan-Ganz,2,ORG
+ICD,2,ORG
+SOMNOLENCE S/P VAT,2,ORG
+bilateral(last x-ray,2,NORP
+"s/p
+  OGT",2,ORG
+Sudden,2,PERSON
+Ventriculomegaly,2,GPE
+Bullecty,2,GPE
+two and a half hours earlier,2,DATE
+w/ inc WBC,2,ORG
+"s/p l
+  central subclavian",2,ORG
+Left lung CA,2,PERSON
+gram,2,CARDINAL
+Luschka,2,PERSON
+LUNG CA SPN,2,PERSON
+fluid s/p,2,ORG
+last week's,2,DATE
+"XRT
+ REASON FOR THIS EXAMINATION",2,PRODUCT
+Retraction,2,ORG
+neurosurg,2,GPE
+Hematuria,2,GPE
+PTX s/p L CT,2,ORG
+PVA,2,ORG
+Magnevist,2,ORG
+Acute,2,FAC
+LE motor,2,ORG
+DLnc WED,2,PERSON
+"Dobhoff
+ Admitting Diagnosis: RIGHT PARACOSTASL TUMOR/SDA
+ _",2,ORG
+DL L,2,ORG
+s/p Chest,2,ORG
+Bedside,2,PERSON
+UOP,2,GPE
+w/ SOB s/p Ex,2,PERSON
+Restricted,2,ORG
+p/w ICH,2,ORG
+ectopic,2,CARDINAL
+Recommend CT,2,ORG
+KKgc TUE,2,PERSON
+DHT,2,ORG
+L PTX s/p IR,2,ORG
+Language,2,LOC
+Thursday,2,DATE
+Respiratory,2,PERSON
+Wegener,2,ORG
+LAT & AP,2,ORG
+hernia,2,LOC
+"hernia
+ Admitting Diagnosis",2,LOC
+Precarinal,2,ORG
+the ethmoid air cells,2,ORG
+Size,2,PERSON
+JRld SUN,2,PERSON
+Rij,2,PERSON
+"ACUTE HYPOXIA
+ REASON FOR THIS EXAMINATION",2,ORG
+Vocal,2,FAC
+Language Pathology Division,2,ORG
+Seven,2,CARDINAL
+Neurosurgery,2,PERSON
+cns infection s/p evd,2,ORG
+SINGLE UPRIGHT VIEW OF THE,2,ORG
+Intracranially,2,ORG
+s/p MI s/p L,2,ORG
+HA,2,ORG
+a few days,2,DATE
+Debhoff,2,PERSON
+MONDAY,2,DATE
+BOLD,2,ORG
+"hernia
+ REASON",2,LOC
+CLL,2,ORG
+Left hemidiaphragm,2,LOC
+"NSLC s/p cyberknife
+ REASON FOR THIS EXAMINATION",2,ORG
+TLC,2,ORG
+cavitary lung mass,2,PERSON
+SEND,2,ORG
+AFB,2,ORG
+acute pathologyPlease,2,ORG
+Pleae,2,PERSON
+s/p Right IJ,2,ORG
+PO,2,FAC
+cardiomegaly,2,GPE
+LEG,2,ORG
+RV,2,ORG
+RV,2,GPE
+CT GUIDED NEEDLE PLACTMENT                  Clip,2,ORG
+"PTX
+ Admitting Diagnosis: RIGHT UPPER",2,FAC
+CA s/p bronch,2,ORG
+CTA ABD W&W,2,ORG
+"s/p Pneumonectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+followup,2,GPE
+Torso,2,PERSON
+Seventh,2,ORDINAL
+ABDOMINAL FLUORO WITHOUT,2,PERSON
+Ectasia,2,PERSON
+CT GUIDED NEEDLE PLACTMENT,2,ORG
+"s/p MVC
+ REASON FOR THIS EXAMINATION",2,ORG
+sclc,2,PERSON
+Chilaiditi,2,ORG
+LIVER,2,PERSON
+Spiculated,2,ORG
+s/p L VATS LLL,2,ORG
+Peg,2,PERSON
+LOC,2,PERSON
+few days,2,DATE
+"CT FINE NEEDLE ASP
+ CT THORACENTESIS W/TUBE PLACMENT",2,ORG
+s/p RUL VATS,2,ORG
+s/p RULobectomy c/b RML,2,ORG
+p/w hepatomegaly,2,ORG
+"RIJ
+ REASON FOR THIS EXAMINATION",2,LAW
+Line,2,PERSON
+"PULMONARY EMBOLISM
+ Admitting Diagnosis",2,PERSON
+NSCL CA,2,FAC
+Paraspinal,2,ORG
+cvl,2,ORG
+one hour ago,2,TIME
+Discoid,2,ORG
+"SOB
+  Contrast",2,ORG
+three weeks ago,2,DATE
+Disc,2,PERSON
+SIX,2,CARDINAL
+LEFT FEMUR,2,PERSON
+s/p RFA,2,ORG
+Melanoma,2,GPE
+KKgc WED,2,PERSON
+Opacification of the left hemithorax consistent,2,WORK_OF_ART
+Sutures,2,PERSON
+CT C-SPINE W/O CONTRAST              Clip,2,ORG
+multiorgan,2,PERSON
+OG Tube,2,ORG
+SINGLE AP,2,ORG
+"/p drainage &
+  b/l pleural effusions",2,ORG
+lung mass & malignant,2,ORG
+orthopnea,2,GPE
+ABX,2,ORG
+s/p right VATS,2,ORG
+Recommend followup CT to,2,ORG
+Loops,2,PERSON
+Calcification,2,ORG
+Left pleural effusion s/p,2,FAC
+"three
+ months",2,DATE
+Anteriorly,2,DATE
+LIVER NODULES,2,PERSON
+Torso CT,2,ORG
+"two
+ days ago",2,DATE
+LL,2,ORG
+s/p pleurex,2,ORG
+esrd,2,GPE
+Opacification of the left,2,WORK_OF_ART
+Opacification of the,2,WORK_OF_ART
+Contiguous CT,2,ORG
+Spleen,2,NORP
+infiltrat,2,GPE
+Aorta,2,PRODUCT
+Susceptibility,2,NORP
+NMsb FRI,2,PERSON
+Evolution,2,PERSON
+delta ms,2,ORG
+COMPLETE,2,PERSON
+Initial,2,ORG
+w/ APC,2,PERSON
+s/p post crani,2,ORG
+Hct,2,GPE
+Penile,2,PERSON
+L.,2,PERSON
+"s/p RUL resection
+ REASON FOR THIS EXAMINATION",2,ORG
+"s/p RUL Lobectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+Progressive,2,GPE
+pulmonary congestion & ?,2,ORG
+"the
+ day",2,DATE
+UIP/IPF,2,ORG
+Esophagecomy,2,GPE
+Fourth,2,ORDINAL
+MRI Head,2,PERSON
+CT NECK W/ & W/O CONTRAST                  Clip,2,ORG
+COMPARISON,2,ORG
+"CA
+ Admitting Diagnosis",2,PERSON
+"LLLectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+LEFT MAINSTREAM BRONCHIAL,2,PERSON
+s/p chemo/xrt,2,ORG
+eighth,2,DATE
+STitle,2,PERSON
+Tuesday,2,DATE
+LEFT                                  Clip,2,PERSON
+NSURG,2,ORG
+Cr,2,PRODUCT
+HX BILAT,2,PERSON
+EXT SWELLING W,2,PERSON
+CERVICAL,2,ORG
+"RESPIRATORY
+  DISTRESS INTUBATED
+ REASON FOR THIS EXAMINATION",2,ORG
+MR CERVICAL SPINE W/O CONTRAST  Clip,2,ORG
+"SOB s/p ex lap
+
+ REASON",2,ORG
+diverticulitis,2,PRODUCT
+VISCOUS,2,PERSON
+aval,2,PERSON
+LEFT UPPER EXTREMITY,2,ORG
+At least two,2,CARDINAL
+s/p r sublavian,2,ORG
+PARACENTESIS,2,ORG
+asthma p/w,2,ORG
+ngt,2,ORG
+LES,2,ORG
+the last two weeks,2,DATE
+Adenoid,2,GPE
+two hours ago,2,TIME
+ONE DAY EARLIER,2,DATE
+RUE PICC,2,ORG
+"RLL Lobectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+New NG,2,ORG
+earlier in this date,2,DATE
+LLL Lobectomy,2,PERSON
+"s/p CT pull
+ REASON FOR THIS EXAMINATION",2,ORG
+Echogenic,2,PERSON
+Torso CT,2,PERSON
+"LIJ TL
+ Admitting Diagnosis",2,ORG
+NSCLC p/w SOB,2,ORG
+M.                OMED,2,PERSON
+Subsequent,2,PERSON
+Left pulmonary,2,LOC
+Bilateral,2,ORG
+Renegade,2,ORG
+CPR,2,ORG
+hypopharynx,2,GPE
+Narrowed,2,ORG
+"PNA
+  Contrast",2,ORG
+"NSCLCA
+ REASON FOR THIS EXAMINATION",2,ORG
+Stable,2,PERSON
+SHORTNESS,2,NORP
+Sharply,2,ORG
+RUL lung CA.,2,PERSON
+X-RAY TO BE,2,PRODUCT
+TTP,2,ORG
+Assymmetry,2,ORG
+pnuemonia,2,GPE
+nine days,2,DATE
+Non-Small,2,ORG
+previous s/p right wedge biopsy,2,ORG
+BILAT,2,ORG
+at least,2,CARDINAL
+emphysema resp,2,PERSON
+METABOLIC,2,ORG
+middle lung,2,GPE
+SINGLE UPRIGHT VIEW OF THE CHEST,2,ORG
+F/U,2,PRODUCT
+RDS,2,ORG
+DUPLEX DOP ABD/PEL LIMITED               Clip,2,ORG
+a day before,2,DATE
+the previous day's,2,DATE
+adeno lung,2,PERSON
+Pleurex,2,ORG
+Marginal,2,DATE
+NOON,2,ORG
+eval s/p,2,ORG
+s/p wedge resection w,2,ORG
+GT,2,ORG
+Port-A-Catheter,2,FAC
+Left subclavian infusion,2,LOC
+hours,2,TIME
+CPT,2,ORG
+Circular,2,PRODUCT
+w/NCSLC,2,ORG
+second rib end,2,DATE
+IV Lung CA,2,PERSON
+R&L CT,2,ORG
+DECUBITUS,2,ORG
+SUPINE AP CHEST RADIOGRAPH,2,ORG
+"s/p L VATS
+ REASON FOR THIS EXAMINATION",2,ORG
+L SCV,2,NORP
+Pathologic,2,PRODUCT
+four years ago,2,DATE
+Pleur,2,GPE
+Extensive,2,WORK_OF_ART
+DFDkq TUE,2,PERSON
+Carcinoid,2,PERSON
+"s/p RULectomy
+ REASON FOR THIS EXAMINATION",2,ORG
+MS,2,PERSON
+hydrocephalus s/p,2,ORG
+Basilic POWER PICC,2,ORG
+Non Small,2,ORG
+CareWeb Clinical Lookup,2,FAC
+Complex,2,NORP
+three hours ago,2,TIME
+Epidural,2,ORG
+Triplanar,2,PERSON
+the same morning,2,TIME
+Rads,2,PERSON
+ABD,2,ORG
+Neuro,2,PERSON
+pleural air,2,ORG
+Wheezing,2,FAC
+prior day's,2,DATE
+Tubes,2,PERSON
+Bilat,2,GPE
+EEG,2,ORG
+"RT LEG ISCHEMIA
+  Contrast:",2,ORG
+FCC,2,ORG
+LEFT VASOGENIC,2,PERSON
+s/p UGI,2,ORG
+"Stereotactic
+  Brain",2,ORG
+s/p TMA w,2,ORG
+Irregular,1,NORP
+Pleurodesis,1,ORG
+Opacification of the ethmoid air,1,WORK_OF_ART
+RUExt,1,PERSON
+Opacification of the left hemithorax and mild prominence,1,WORK_OF_ART
+Wernicke,1,PERSON
+four-hour,1,TIME
+approximately six days ago,1,DATE
+p/w fatigue,1,ORG
+cervical lymph,1,ORG
+Videotaped,1,GPE
+Castleman,1,PERSON
+Periaortic,1,LOC
+O/N,1,ORG
+Residue,1,PERSON
+"RIJ
+ Admitting Diagnosis: HYPOXIA",1,WORK_OF_ART
+s/p r-,1,ORG
+Compression,1,PERSON
+Opacification of ethmoid air cells consistent,1,WORK_OF_ART
+Perm-A-Cath,1,ORG
+TOF,1,ORG
+RIJ,1,LAW
+Thereafter,1,PERSON
+Tachycardic,1,PERSON
+hemorrhaqge,1,PERSON
+"ENT
+ REASON FOR THIS",1,FAC
+Colon,1,ORG
+RUL mass &,1,ORG
+s/p L MCA,1,ORG
+Left UE,1,FAC
+FDG avidity,1,PERSON
+one-cm,1,QUANTITY
+Glucagon IV,1,GPE
+Reevaluate,1,ORG
+Recommend f/u after abx,1,ORG
+USG,1,ORG
+"s/p Pericardial Window
+ REASON FOR THIS EXAMINATION",1,ORG
+one-day,1,DATE
+scan,1,NORP
+"NG
+ Admitting Diagnosis",1,ORG
+s/p IV TPA,1,ORG
+Vessels,1,ORG
+s/p TBNA,1,ORG
+the previous morning,1,TIME
+"s/p LP
+ REASON FOR THIS EXAMINATION",1,ORG
+LIVER METS,1,PERSON
+"s/p TBNA
+ Admitting Diagnosis: RIGHT UPPER",1,ORG
+Imaging,1,GPE
+p/w fall,1,ORG
+CAROTID,1,PRODUCT
+Maxillary,1,PERSON
+LA,1,GPE
+Indication,1,ORG
+Multiple lacunar,1,ORG
+Lamina,1,GPE
+"CT
+ REASON FOR THIS EXAMINATION",1,ORG
+hepatomegaly,1,GPE
+s/p R. thoracotomy,1,ORG
+CA - PREVIOUS HX OF CLOT,1,PERSON
+Skinfold,1,ORG
+s/p wedge resection-,1,ORG
+mcg,1,TIME
+Once,1,ORG
+S/L Profound,1,ORG
+Flush,1,PERSON
+Plain,1,GPE
+nectoric metastases,1,ORG
+Request,1,FAC
+DESCRIPTION OF,1,PERSON
+Peribronchovascular,1,PRODUCT
+intravoxel fat,1,ORG
+HIV s/p L,1,ORG
+"PET
+ _",1,LAW
+"CT-GUIDED BIOPSY:
+ Informed",1,ORG
+Presumed,1,ORG
+a few minutes,1,TIME
+"FLEX SIG SHOWING ACTIVE BLEEDING, NO IDENTIFI ABLE SOURCE",1,LAW
+CA & PNA,1,ORG
+T.,1,PERSON
+"FLEX SIG SHOWING ACTIVE BLEEDING, NO IDENTIFI ABLE
+ SOURCE",1,LAW
+CMG,1,ORG
+Metastases,1,GPE
+Postgadolinium,1,ORG
+"the same
+  day",1,DATE
+RA,1,PERSON
+"carina s/p
+  esophageal",1,ORG
+Expansile,1,GPE
+Referral,1,ORG
+The Attending Radiologist,1,ORG
+day,1,DATE
+w/ inc,1,ORG
+JRke,1,PERSON
+Tracker,1,ORG
+Left subclavian Port-A-Cath,1,FAC
+OptEase IVC,1,ORG
+Multiplanar MR,1,ORG
+"CA
+ REASON",1,PERSON
+Infiltrating,1,GPE
+CT Torso,1,ORG
+Total Body,1,PERSON
+"s/p d/c of all CT
+ REASON FOR THIS EXAMINATION",1,ORG
+only two,1,CARDINAL
+NG,1,LOC
+"Dl
+
+         DR",1,ORG
+vws,1,ORG
+pleural air collection,1,ORG
+Broken,1,PERSON
+MEDIASTINUM,1,PERSON
+BL pleural,1,ORG
+Degree,1,PERSON
+NECROTIZING BRONCHIAL STUMP,1,PERSON
+COP,1,ORG
+"ICH/CVA
+ No contraindications",1,ORG
+ICH/CVA,1,ORG
+"the
+ Neurosurgical Service",1,ORG
+Revah,1,WORK_OF_ART
+three to four,1,CARDINAL
+Punctate,1,LOC
+Stent,1,PERSON
+CytoLite,1,PRODUCT
+GEJ,1,ORG
+the earlier (pre-embolization,1,DATE
+s/p R VATS w/p RU,1,ORG
+Diffusion,1,LOC
+NEED TO ASSESS,1,PERSON
+"IR
+ Admitting Diagnosis: INFERIOR MYOCARDIAL INFARCTION\CATH
+ ********************************* CPT Codes",1,ORG
+myelomalacia,1,CARDINAL
+"s/p RML / RLL
+ Admitting Diagnosis",1,ORG
+s/p RML / RLL,1,ORG
+Myocardial,1,NORP
+Overlying,1,GPE
+HIP,1,ORG
+claustrophobia,1,GPE
+the IVC,1,ORG
+"s/p RUL lobectomry
+ REASON FOR THIS EXAMINATION",1,ORG
+s/p redo right thoracotomy,1,ORG
+"s/p GTC
+ REASON FOR THIS EXAMINATION",1,ORG
+sixteen hours,1,TIME
+Preop CT,1,WORK_OF_ART
+CONSCIOUS,1,ORG
+CT GUIDED FLUID ASPIRATION:,1,ORG
+Opacification of the pulmonary arteries,1,WORK_OF_ART
+Medical Associates,1,ORG
+Needs,1,ORG
+intraparenchymal fluid,1,PERSON
+Satellite,1,ORG
+Necrotic,1,ORG
+s/p RULobectomy w/ LLL,1,ORG
+Prior,1,PERSON
+"CT
+ angiogram sign",1,WORK_OF_ART
+Left lung pulmonary vessels,1,PERSON
+Middle Third,1,LOC
+a couple of cm,1,QUANTITY
+MR-,1,PRODUCT
+Gadavist,1,NORP
+n/w CT,1,ORG
+one minute,1,TIME
+CA s/p bioccipital crani,1,PERSON
+"s/p HD
+ Admitting Diagnosis: SHORTNESS OF",1,ORG
+Lung Cancer,1,PERSON
+Venous,1,PERSON
+Tube Feed,1,PERSON
+Examination of the parenchyma reveals,1,ORG
+years,1,DATE
+s/p HD,1,ORG
+"RENAL FUNCTION
+ Admitting Diagnosis",1,PERSON
+ABDOMINOPELVIC,1,ORG
+Right IJ Swan-Ganz,1,EVENT
+Pericarditis,1,GPE
+Acute MI,1,ORG
+Pericardiocentesis,1,PERSON
+Echo,1,LOC
+Line,1,LOC
+approximately noon,1,TIME
+Chest CTA,1,PRODUCT
+Smaller,1,PERSON
+cavernomas,1,ORG
+PCI,1,ORG
+"s/p pericardiocentesis
+ REASON FOR THIS EXAMINATION",1,ORG
+Stereotactic CT,1,ORG
+SP Lobectomy,1,PERSON
+w/ inc hypoxia  s/p,1,ORG
+medulla oblongata,1,PERSON
+Innumerable,1,LOC
+Phleboliths,1,PERSON
+Vascularity,1,ORG
+intracranial mass.,1,ORG
+less than five hours,1,TIME
+PHmb MON,1,ORG
+Lytic,1,LOC
+"Pneumo
+ Admitting Diagnosis",1,PERSON
+CA lung,1,PERSON
+Recommendation for ETT,1,ORG
+"s/p
+  cerebellar mets resection",1,ORG
+Intraoperative,1,ORG
+Risks,1,ORG
+"chf,",1,ORG
+CXRY b/w,1,ORG
+Sequence,1,ORG
+"M.D.
+ _",1,ORG
+Left subclavian artery,1,LOC
+Pneumo,1,PERSON
+just one day ago,1,DATE
+Referred,1,ORG
+"Pneumothorax
+ Admitting Diagnosis",1,PERSON
+Irregularity,1,ORG
+Thorcic,1,ORG
+the past several months,1,DATE
+ten,1,CARDINAL
+"Hct s/p R Pneumonectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+Clot,1,ORG
+tympanic,1,CARDINAL
+tympanic,1,DATE
+"s/p ETT
+ REASON FOR THIS EXAMINATION",1,ORG
+the Omniflush,1,EVENT
+NSCLC s/p extubation for hypoxia,1,ORG
+LSC CVL OK,1,PERSON
+GE jxn - shd,1,ORG
+Hepatitis C,1,ORG
+"the exam six hours
+  earlier",1,TIME
+FINDINGS FOR CT OF THE,1,ORG
+some six and,1,CARDINAL
+HL,1,GPE
+RU Lobectomy,1,PERSON
+RU,1,PERSON
+RA,1,GPE
+Transcend,1,PERSON
+L PICC,1,GPE
+HYPERINTENSE,1,ORG
+"this
+  morning",1,TIME
+Sharp,1,ORG
+LEFT PLEURAL EFFUSION,1,FAC
+FLUID-FLUID,1,NORP
+"s/p RU Lobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+yearly,1,DATE
+"SubQemphysema
+ REASON FOR THIS EXAMINATION",1,ORG
+AP SUPINE BEDSIDE RADIOGRAPH OF THE CHEST,1,ORG
+s/p PCI,1,ORG
+"multiorgan
+ metastases",1,ORG
+SCOLIOSIS,1,ORG
+Regions,1,PERSON
+Marked,1,LANGUAGE
+UPPER GI,1,FAC
+AST/ALT/ALP,1,ORG
+Atrius,1,ORG
+One and a half weeks,1,CARDINAL
+Gallstone pancreatitis,1,PERSON
+"ASAP
+ Admitting Diagnosis",1,FAC
+SOB s/p FFP x,1,ORG
+ANKLE,1,ORG
+Atrium,1,GPE
+CFA,1,ORG
+MPtb WED,1,PERSON
+PROTEINACEOUS/HEMORRHAGIC IN SEGMENT III,1,ORG
+BOPTA,1,PERSON
+Surgical,1,NORP
+PET/CT OR,1,ORG
+RESPIRATORY DIFFICULTIES,1,PERSON
+knon emphysema,1,PERSON
+ABDOMEN U.S.,1,ORG
+Doubt CHF,1,ORG
+PAF,1,ORG
+Cavogram,1,ORG
+the end of the,1,DATE
+non-Hodgkin,1,NORP
+Seven hours,1,TIME
+NHL p/w,1,ORG
+Three days,1,DATE
+Crohn,1,PERSON
+eighth,1,CARDINAL
+AICD,1,ORG
+s/p RUL/RLL,1,ORG
+LAT C-SPINE,1,ORG
+s/p R Pigtail,1,ORG
+three- minute,1,TIME
+s/p RLLobectomy,1,ORG
+s/p rt thoracotomy,1,ORG
+RESPIRATORY MOTION,1,PERSON
+"s/p RUlobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+"three
+ days",1,DATE
+HYPERINTENSE,1,GPE
+EQUILIBRIUM,1,ORG
+"DVT
+ REASON FOR THIS EXAMINATION",1,ORG
+HYPOXEMIA,1,CARDINAL
+COMBINATION,1,GPE
+s/p RULobectomy c/b large airleak s/p,1,ORG
+Pacemaker,1,LAW
+Tumor,1,ORG
+RA/RV,1,ORG
+STENOSIS,1,ORG
+DUPLEX DOP ABD/PEL LIMITED                     Clip,1,ORG
+exam eight hours earlier,1,TIME
+Repeat,1,GPE
+Hyperexpanded,1,ORG
+Acute SOB,1,PRODUCT
+F w/ NSLC,1,ORG
+two-thirds,1,CARDINAL
+Matched,1,NORP
+Dense,1,PERSON
+Left cerebellar hemisphere hemorrhagic metastasis,1,LOC
+a day and a half ago,1,DATE
+Month/Day,1,DATE
+CLAMP,1,ORG
+"s/p lt CT d/c
+ _",1,ORG
+Horner,1,ORG
+s/p LULobectomy/LLL,1,ORG
+"s/p lt CT d/c
+ Admitting Diagnosis",1,ORG
+s/p R.,1,ORG
+"s/p R. pneumonectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+Scout,1,PERSON
+s/p aborted,1,ORG
+eval s/p stent,1,ORG
+s/p picc placment,1,ORG
+RFA,1,ORG
+Zosyn,1,GPE
+confirm ngt,1,ORG
+Collapse,1,PERSON
+"OGT
+ Admitting Diagnosis: HEMOPTYSIS
+ _",1,ORG
+INTERVENOUS,1,ORG
+EVSL FRO HYDO,1,ORG
+IPF-UIP,1,ORG
+LUL & L,1,ORG
+FLAIR,1,LAW
+ett &,1,ORG
+Opacification of the mid,1,WORK_OF_ART
+LEFT         Clip,1,PERSON
+ett & ogt,1,ORG
+L LE,1,ORG
+Mediastinal Lymphadenopathy,1,PERSON
+Sixty-two year old,1,DATE
+Achilles,1,PERSON
+S/p biopsy,1,ORG
+HAZY OPACITY SURROUNDING THIS,1,FAC
+"RBI
+ REASON FOR THIS EXAMINATION",1,LAW
+LIKELY,1,PERSON
+Opacification of the left upper lobe,1,WORK_OF_ART
+Steri-Strips,1,ORG
+yellowish fluid,1,PERSON
+"the seventh, eighth",1,DATE
+Vortex Platinium,1,ORG
+Lesion five,1,CARDINAL
+earlier the same evening,1,TIME
+EGD NEGATIVE,1,ORG
+Technique,1,PERSON
+Desaturated,1,ORG
+mca,1,ORG
+"DUPLEX DOP ABD/PEL LIMITED
+ Reason",1,ORG
+the pleura (series,1,ORG
+"NEEDLE BIO                                         *
+ **",1,ORG
+"PNA/PE
+ REASON FOR THIS EXAMINATION",1,ORG
+"the
+ same day",1,LOC
+approximately nine hours earlier,1,TIME
+DBzc,1,ORG
+vocla cord mass,1,ORG
+Collapse,1,PRODUCT
+@@@@@@@@@@@@@@,1,PRODUCT
+likley sequela,1,PERSON
+afib w/rvr,1,ORG
+S.,1,ORG
+"LUL
+ REASON FOR THIS EXAMINATION",1,ORG
+IV Ancef,1,PERSON
+Lesser,1,PERSON
+O.R.                                    Clip,1,ORG
+Request CT,1,ORG
+AP &,1,ORG
+LOCALIZATION,1,PERSON
+every hour,1,TIME
+RIJClinical Question,1,ORG
+ARTIFACTS,1,ORG
+P L,1,ORG
+LEFT ATRIAL,1,PERSON
+RMLectomy,1,ORG
+Picc,1,ORG
+THORACOLUMBAR SPINE,1,ORG
+"Picc
+ Admitting Diagnosis",1,ORG
+W/AP CHEST                                           Clip,1,ORG
+CCC,1,PERSON
+"BILAT DUPLEX TO ASSESS FOR DVT
+ Admitting Diagnosis: PULMONARY EMBOLIS
+ _",1,ORG
+OMU,1,ORG
+Upper,1,PERSON
+two months ago,1,DATE
+GPB,1,ORG
+Found,1,PERSON
+RL,1,PERSON
+Lobectomies,1,PERSON
+"s/p RML/RLL
+ REASON FOR THIS EXAMINATION",1,ORG
+emphysema s/p VATS,1,PERSON
+Likley,1,PERSON
+TBBX,1,ORG
+neoplasia,1,GPE
+Two centimeter,1,QUANTITY
+"the
+ Emergency Department",1,ORG
+aorta & in,1,ORG
+SubQ,1,PERSON
+LUMBAR SPINE,1,ORG
+chr,1,ORG
+cerebellar infarct,1,PERSON
+Encephalopathy,1,PERSON
+p/w aphasia & R,1,ORG
+max sinus dz,1,PERSON
+Remainder,1,PERSON
+Reexpansion of the right lung,1,WORK_OF_ART
+the exam six hours,1,TIME
+Aerosolized,1,NORP
+RECOMMEND,1,ORG
+FINDINGS DISCUSSED WITH,1,ORG
+Aspergillus,1,ORG
+claustrophobia,1,ORG
+FINDINGS FOR CT OF THE ABDOMEN,1,ORG
+FINDINGS FOR CT OF THE CHEST WITH IV CONTRAST,1,ORG
+Localizer,1,PERSON
+LUQ,1,ORG
+thrombus formationa,1,ORG
+Rt ACOM,1,PERSON
+VATS,1,GPE
+cerebellar encephalomalacia,1,PERSON
+pan-CT,1,ORG
+Mastoid,1,PERSON
+RADIOPGRAPH,1,PERSON
+Stable Moderate,1,ORG
+Dysphagia,1,PERSON
+KMcd,1,GPE
+wednesday,1,DATE
+L lung adenoca,1,GPE
+Propeller,1,ORG
+Repeat Cyberknife,1,WORK_OF_ART
+Nine hours earlier,1,TIME
+w,1,ORG
+yo man w/h/o,1,PERSON
+LUNG CA TO,1,PERSON
+CA S/P,1,ORG
+LEFT                                      Clip,1,PERSON
+Exophytic,1,NORP
+three-month,1,DATE
+"E.D.
+ REASON FOR THIS EXAMINATION",1,ORG
+"PNA s/p intubation
+ REASON FOR THIS EXAMINATION",1,ORG
+RLL Stage,1,ORG
+"PTX
+ REASON FOR THIS EXAMINATION",1,FAC
+"the
+ CT",1,ORG
+Left lung apex,1,LOC
+R PTX,1,PRODUCT
+s/p right post-[**Last Name,1,ORG
+s/p sub occipital crani,1,ORG
+PT WAND STUDY TO BE,1,ORG
+Med LAD SP,1,ORG
+LLung,1,ORG
+"approximately one
+ hour",1,TIME
+s/p s,1,LAW
+MARKED,1,DATE
+Left lung mass.,1,PERSON
+NMsb WED,1,PERSON
+Slighlty,1,ORG
+man w/h/o bronchogenic ca,1,ORG
+w/ ass'td,1,PERSON
+Comparing,1,ORG
+CXR &,1,ORG
+Vanco,1,PERSON
+Strandy,1,PERSON
+fifteen hours earlier,1,TIME
+cachexia,1,GPE
+Reevaluation,1,PERSON
+Sidehole,1,NORP
+Substantially,1,PERSON
+Hypercarbic,1,PERSON
+Left lung mass,1,PERSON
+earlier in day,1,DATE
+Vs,1,PRODUCT
+Grossly,1,PERSON
+"s/p stereotactic biopsy
+ REASON FOR THIS EXAMINATION",1,ORG
+"PICA
+ origin on",1,ORG
+PS/PEEP,1,ORG
+Left ICA,1,PRODUCT
+the Interventional Neuroradiology Theater,1,ORG
+RT FRONTAL,1,ORG
+SCC s/p,1,ORG
+"three hours'
+ time",1,TIME
+w/ COPD,1,PERSON
+Stents,1,ORG
+PNA & COPD,1,ORG
+THURSDAY,1,DATE
+UA,1,ORG
+"Left
+ PICA",1,FAC
+NOW W/ SOB,1,ORG
+NON-CONTRAST CT OF THE,1,ORG
+Varying,1,PERSON
+Evaluate PICC,1,FAC
+Faint,1,LOC
+two or three,1,CARDINAL
+lung malignancy,1,PERSON
+Strictures,1,PERSON
+fu,1,PERSON
+Medical Center,1,ORG
+"RV
+ Admitting Diagnosis",1,PERSON
+eval lung fields s/p,1,PERSON
+pons,1,PERSON
+infarct,1,PERSON
+Left PTX.,1,FAC
+CA SP,1,PRODUCT
+rul lung,1,PERSON
+Mickaelson,1,PERSON
+Fistula,1,PERSON
+intraparenchymal,1,PERSON
+sclc s,1,PERSON
+LUL CA,1,ORG
+III NSCLC,1,ORG
+OOB,1,ORG
+Dementia,1,PERSON
+lung adenocarcinoma s/p LUL,1,PERSON
+Sepsis,1,NORP
+ovoid fluid,1,PERSON
+versus,1,ORG
+PHONE,1,ORG
+GB,1,PERSON
+p/w N/V/EKG,1,ORG
+Chest CTA,1,ORG
+less than yesterday,1,DATE
+the span of nine days,1,DATE
+CELIAC TRUNK,1,PERSON
+two and a,1,DATE
+s/p stereotactic biopsy,1,ORG
+argon lazser,1,PERSON
+GTube,1,ORG
+hemorrhagic pulmonary metastasis,1,ORG
+"the ETT
+ Admitting Diagnosis",1,ORG
+Midline,1,GPE
+Lung Ca s/p,1,PERSON
+carcinoma s/p thoracentesis,1,ORG
+Microangiopathic,1,PERSON
+Mesothelioma,1,ORG
+gastric node,1,PERSON
+s/p extubation failure,1,ORG
+Metastatsis,1,ORG
+Continued fluid,1,PERSON
+Glidewire,1,PRODUCT
+Mikaelsson,1,ORG
+EMBOLIZATION,1,DATE
+Sedation,1,ORG
+Bronchoceles,1,PERSON
+"LUNG CANCER;TRACEAL FISTULA
+ Admitting Diagnosis",1,PERSON
+Bronch'ed,1,GPE
+three- to six-month,1,DATE
+IV Optiray,1,PERSON
+mm epicardial node,1,PERSON
+JWK,1,ORG
+mm node,1,PERSON
+S/P Esophageal,1,ORG
+Left CVL,1,FAC
+"two
+ weeks",1,DATE
+ARTS,1,ORG
+MPtb FRI,1,PERSON
+the day of the,1,DATE
+Left CVL,1,PRODUCT
+IBS,1,ORG
+Minimal SI,1,NORP
+s/p fall p/w,1,ORG
+three-quarters,1,DATE
+fluid & AFL,1,ORG
+Anterior,1,PERSON
+findings--,1,ORG
+Unchanged NSCLC,1,ORG
+Question ET,1,ORG
+SCC CA,1,PRODUCT
+"CVL
+ REASON FOR THIS EXAMINATION",1,ORG
+lung mass p/w,1,ORG
+Apparent,1,LOC
+Lung CA s/p CABG/Mediastinal Lymph Node Dissection,1,PERSON
+Ischemia,1,ORG
+thyroid nodule,1,PERSON
+Bland,1,PERSON
+"PTX/Effusion/Tamponade
+ Admitting Diagnosis",1,ORG
+jejunum distal,1,PERSON
+Evaluate LLung,1,PERSON
+GADOLINIUM ENHANCEMENT,1,ORG
+O.R.                                              Clip,1,ORG
+fingerbreadths,1,CARDINAL
+Gad,1,ORG
+Blebs,1,LOC
+Hickman,1,PERSON
+DLBCL,1,ORG
+Five hours,1,TIME
+Left juxtahilar,1,LOC
+Ejection fraction,1,LAW
+One to three minutes,1,TIME
+Sixty-nine year old,1,DATE
+s/p CVA/MI,1,ORG
+BILAT LOWER EXT VEINS,1,ORG
+CT NECK W/,1,ORG
+SClung CA,1,PERSON
+Intersticial,1,ORG
+just over three-quarters,1,CARDINAL
+Infiltrative,1,ORG
+"s/p L Pneumenecotmy
+ REASON FOR THIS EXAMINATION",1,ORG
+"Vaxcel
+ PICC",1,FAC
+Op-Site,1,ORG
+Nitinol,1,PERSON
+CA s/p subclavian line,1,ORG
+L NC,1,GPE
+Abundant,1,ORG
+Cardiopericardial,1,ORG
+w/ NGT,1,ORG
+Wand,1,GPE
+Pneumonectomy,1,GPE
+s/p pneumonectomy w/,1,ORG
+Tubular,1,ORG
+Thin nectar,1,ORG
+"s/p right resection
+ REASON FOR THIS EXAMINATION",1,ORG
+p.e.,1,GPE
+centimeter,1,CARDINAL
+PT,1,PERSON
+mastoid air,1,ORG
+IJV,1,ORG
+Aorta,1,GPE
+Stable,1,CARDINAL
+LOCknown,1,ORG
+SVC,1,LOC
+middle,1,GPE
+Precedex,1,PERSON
+Vena-Tech,1,ORG
+"Echo
+ Planar",1,FAC
+s/p VATS RULobectomy,1,ORG
+Radiographic,1,ORG
+s/p  VATS  RULobectomy,1,ORG
+Tarceva,1,LOC
+LCpc,1,PRODUCT
+Kommerell,1,ORG
+Bronchoscopic,1,PERSON
+"Staging CT
+ to evaluate disease below the diaphragm",1,WORK_OF_ART
+earlier tonight,1,TIME
+Ascending,1,PERSON
+s/p Stx Bx,1,ORG
+"s/p Stx Bx
+ Admitting Diagnosis: WEAKNESS",1,ORG
+CIN,1,ORG
+about two,1,CARDINAL
+Fentanyl,1,GPE
+p.o.,1,GPE
+Renegade Hi-Flow,1,PERSON
+Probable,1,PERSON
+"two
+ hours",1,TIME
+Papillary,1,NORP
+LVC,1,ORG
+s/p LUlobectomy,1,ORG
+LULobectomy s/p,1,ORG
+O.R.          Clip,1,ORG
+Female s/p,1,PERSON
+localizer,1,NORP
+Routine,1,ORG
+cm SI,1,PERSON
+Confluent,1,PERSON
+GUID WIRES INFU,1,ORG
+Globes,1,PERSON
+vacuum disc phenomenon,1,PERSON
+middle hepatic,1,LOC
+the Endovascular Suite,1,ORG
+one-half,1,CARDINAL
+normal Cr,1,PERSON
+Convex,1,PERSON
+s/p LULobectomy CT,1,ORG
+"empyema s/p RMLobectomy
+ REASON FOR THIS EXAMINATION",1,PERSON
+Perirectal,1,ORG
+The pleural air collection,1,ORG
+Secretions,1,ORG
+Billroth II,1,PRODUCT
+Multiple L,1,ORG
+Sidehole of the NG,1,ORG
+Moderate,1,ORG
+Question PICC,1,ORG
+GFR,1,ORG
+mm lung,1,PERSON
+"PACU
+ Admitting Diagnosis",1,GPE
+Coronary,1,LOC
+Followup CT,1,ORG
+six months,1,DATE
+Additionaly,1,GPE
+Little,1,PERSON
+J.,1,ORG
+Comaprison,1,PERSON
+s/p VATS->open RUL lobectomy & lymphadenectomy,1,ORG
+SCC s/p hypoxic PEA,1,ORG
+SCC s/p PEA,1,ORG
+subpulmonic fluid collection,1,ORG
+Focus of susceptibility,1,ORG
+chiba,1,ORG
+"SCC s/p stenting with acute resp distress s/p extubation
+  now s/p urgent re-intubation
+ REASON FOR THIS EXAMINATION",1,ORG
+Urgent,1,ORG
+"CA, Met",1,ORG
+"six
+ hours earlier",1,TIME
+the Opteez,1,ORG
+cerebellar mass.,1,ORG
+Facet,1,PRODUCT
+ULTRASOUND-GUIDED PARACENTESIS,1,ORG
+"s/p cerebellar mass resection
+ REASON FOR THIS EXAMINATION",1,ORG
+Left base atelectasis,1,LOC
+Segmental,1,ORG
+Stabilization,1,ORG
+Parapelvic,1,PERSON
+Substantially,1,GPE
+"the past
+ week",1,DATE
+NSLC,1,ORG
+EGFR,1,ORG
+Angioplasty,1,PERSON
+Decrease,1,PERSON
+"intracranial
+  metastases",1,ORG
+"LEFT THIGH
+ REASON",1,PERSON
+"O.R.
+ Reason",1,PERSON
+"Respiratory difficulty/ Cardiac Tamponade
+ REASON FOR THIS EXAMINATION",1,ORG
+p/w pre-syncope,1,ORG
+Senapati,1,GPE
+Versus,1,ORG
+about three hours,1,TIME
+Thoracic,1,PERSON
+Conventional,1,LAW
+Accessory,1,PRODUCT
+IOUS,1,LOC
+PE/DVT,1,ORG
+Asymmetry,1,LOC
+s/p IJ,1,ORG
+the past,1,DATE
+Prostate,1,FAC
+Presyncope,1,LOC
+pareenchymal hematoma,1,PERSON
+Posterior,1,LOC
+Enlarged,1,ORG
+parenchymal hematoma,1,PERSON
+EUS,1,ORG
+OSSEOUS STRUCTURES/SOFT TISSUES,1,ORG
+R cerebellar mass &,1,ORG
+Option,1,ORG
+Bone,1,PERSON
+cerebellar hematoma,1,PERSON
+Indwelling,1,GPE
+Sequential,1,GPE
+G.                    EU,1,PERSON
+hemorrhagic metastases.,1,ORG
+Appendix,1,PERSON
+Peripancreatic,1,LOC
+"S/P PNEUMONECTOMY
+ REASON FOR THIS EXAMINATION",1,ORG
+Delirium,1,PERSON
+day one,1,DATE
+small,1,PERSON
+Recommend MR,1,ORG
+IG,1,ORG
+"scan
+
+  Gallstone",1,ORG
+"S/P RT PNEUMONECTOMY
+ Admitting Diagnosis:",1,ORG
+Vent s/p ET,1,WORK_OF_ART
+two thirds,1,CARDINAL
+"s/p
+  Thoracenthesis
+ REASON FOR THIS EXAMINATION",1,ORG
+LAT & OBL RIGHT,1,ORG
+the prior evening,1,TIME
+s/p lungCA,1,LAW
+NSSLC,1,ORG
+"A Stat
+ Lock",1,ORG
+Hep-locked,1,PERSON
+cerebellar mets,1,PERSON
+Phrygian,1,NORP
+Bacteremia,1,ORG
+Tspine,1,PRODUCT
+S/P THIRD,1,ORG
+Femoral,1,NORP
+PLS,1,ORG
+BiPAP,1,PERSON
+MRI,1,FAC
+"IJ
+ REASON FOR THIS EXAMINATION",1,LOC
+PROTOCOL,1,ORG
+Known hemorrhagic,1,ORG
+Shotty,1,NORP
+GIbleed,1,ORG
+the prior two days,1,DATE
+DM,1,GPE
+Fourteen,1,CARDINAL
+Lupron,1,PERSON
+Monopty,1,ORG
+Glucagon,1,GPE
+klebsiella bacteremia,1,PERSON
+One liter,1,QUANTITY
+Neurosurg,1,GPE
+SINGLE AP CHEST RADIOGRAPH,1,ORG
+DTI/FA,1,ORG
+Trendelenburg,1,PERSON
+CT-PET,1,ORG
+"Constipatated
+ REASON FOR THIS EXAMINATION",1,ORG
+"Lung Mass
+ REASON",1,PERSON
+FRONTAL,1,ORG
+lung mas s/p,1,PERSON
+s/p radical cystectomy/ileal conduit,1,ORG
+Versed & Fentanyl,1,ORG
+Luftsichel,1,GPE
+Internal Jugular Vein,1,ORG
+L VC,1,GPE
+w/ lung CA,1,PERSON
+s/p RCA,1,ORG
+B/L Pleural,1,ORG
+PARENCHYMAL,1,ORG
+Sclerotic,1,NORP
+OTEHRWISE EXAM UNCHANGED WITH MODERATE,1,ORG
+LEFT COSTOPHRENIC ANGLE,1,FAC
+LUCENCY,1,ORG
+only minimal,1,QUANTITY
+Wire,1,PERSON
+Odontoid,1,ORG
+Encephalomalacic,1,PERSON
+Opacification of the right lower,1,WORK_OF_ART
+Uterus,1,ORG
+BILAT                                  Clip,1,ORG
+UNILAT SUBCLAV                                                  Clip,1,ORG
+STAGING,1,ORG
+Lipoma,1,GPE
+scan,1,LANGUAGE
+Cirrhosis,1,ORG
+TRANHEP,1,GPE
+JRld WED,1,PERSON
+The Cobra,1,WORK_OF_ART
+subclavian s/p stent,1,ORG
+TRANSLUM ANGIO NONLASER         CATHETER,1,ORG
+"PACU
+ REASON FOR THIS EXAMINATION",1,LOC
+ABSCESS,1,EVENT
+Irregularly,1,ORG
+SP VATS,1,GPE
+Remnant,1,PERSON
+Gram-negative,1,PERSON
+Post-IV,1,ORG
+approximately eight hours earlier,1,TIME
+NSCLC s/p ex-lpa,1,ORG
+"s/p IMI
+ REASON FOR THIS EXAMINATION",1,ORG
+B/L PE,1,ORG
+s/p IM,1,ORG
+HIP NAILING,1,ORG
+W/FILMS & FLUORO LEFTClip #,1,ORG
+"Hemothorax
+ REASON",1,PERSON
+TLS,1,ORG
+S/P MVC,1,ORG
+XII,1,ORG
+LEFT HIP FX,1,ORG
+CA s/p MVC,1,PERSON
+Lung adeno,1,PERSON
+Consent,1,PRODUCT
+"House
+ Staff",1,ORG
+carcinoma s,1,PERSON
+blurry vision,1,PERSON
+Borderline,1,LOC
+BILATERAL LOWER EXTREMITY ULTRASOUND WITH DOPPLER,1,ORG
+NEW BRAIN MET,1,ORG
+ASSES,1,ORG
+F s/p Left,1,ORG
+Spinal,1,ORG
+Greater,1,LOC
+PATIENT CODED,1,PERSON
+Left-sided PICC,1,ORG
+Vaxcel PICC,1,FAC
+NS,1,ORG
+mastoid air cells remain clear,1,ORG
+distinguish,1,NORP
+cavitary lung lesions,1,PERSON
+"Concerning for
+ aspergillosis",1,WORK_OF_ART
+Post NG,1,ORG
+SP,1,ORG
+Cardiomedistinum,1,ORG
+approximately one-half,1,CARDINAL
+"CT position & effusion
+ _",1,ORG
+lesions,1,PERSON
+thirds,1,CARDINAL
+FOREARM,1,ORG
+"the f
+ Admitting Diagnosis: RIGHT UPPER",1,FAC
+the CCU Service,1,ORG
+the Radiology Suite,1,ORG
+s/p r VATS drainage,1,ORG
+LIJ,1,ORG
+"LIJ
+ Admitting Diagnosis: RIGHT UPPER",1,ORG
+COMPLETE GU ULTRASOUND,1,ORG
+LEFT                  Clip,1,PERSON
+s/p RIGHT subclav,1,ORG
+empyema,1,ORG
+LEFT WRIST,1,PERSON
+LEFT FOREARM,1,PERSON
+Cv,1,PERSON
+fx post,1,ORG
+Radiocarpal,1,PERSON
+Targetoid,1,PERSON
+Hypercalcemia,1,PERSON
+Fetal,1,FAC
+"s/p Left Upper Sleeve Lobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+Hypoplastic,1,ORG
+DI,1,ORG
+Bilobed,1,ORG
+Clips,1,ORG
+Radial,1,ORG
+thrombus,1,ORG
+paratracheal node,1,PERSON
+Congenital,1,ORG
+Obliterated R,1,ORG
+Fluoroscopically,1,ORG
+STATUS POST CHEST TUBE PLACEMENT,1,ORG
+sestamibi,1,PERSON
+Approximately three,1,CARDINAL
+AP & LATERAL,1,ORG
+METHOD,1,ORG
+Sestamibi Stress,1,PERSON
+Sestamibi Rest,1,PERSON
+Thoracics,1,NORP
+s/p bronchial,1,ORG
+Substantial,1,PERSON
+NSLC s/p,1,ORG
+"--Rrana
+ _",1,PERSON
+"RVR & SOB
+ REASON FOR THIS EXAMINATION",1,ORG
+CHF p/w sob,1,ORG
+Alternate,1,ORG
+Cecal,1,GPE
+BX,1,EVENT
+"AM
+ PICC LINE",1,ORG
+CA & hemoptysis,1,ORG
+Deployment of a third,1,ORG
+RT FOOT,1,PERSON
+Nocardia,1,ORG
+penumothorax s/p line,1,ORG
+a third,1,QUANTITY
+Loculated,1,GPE
+CA s/p CT,1,ORG
+Thoracentesis,1,ORG
+lobe nodule,1,PERSON
+s/p CT-,1,ORG
+Pnuemonia,1,GPE
+SPUTUM,1,PERSON
+STATUS POST PNEUMONECTOMY,1,ORG
+ica,1,CARDINAL
+NAD,1,ORG
+MI,1,GPE
+Abdominal CT,1,ORG
+Venatech,1,GPE
+LGM,1,GPE
+LGM Venatech,1,ORG
+leni,1,ORG
+four weeks ago,1,DATE
+SBR POD,1,ORG
+AP x TV,1,ORG
+Resolution of a right pleural effusion,1,LAW
+Creatinine,1,ORG
+Slices,1,ORG
+pleura,1,LOC
+s/p Pericardial,1,ORG
+"earlier
+ the same day",1,DATE
+the weekend,1,DATE
+SINGLE AP SUPINE BEDSIDE CHEST RADIOGRAPH,1,ORG
+additional eight,1,CARDINAL
+Adjacent,1,PRODUCT
+non-FDG-avid,1,ORG
+GDC,1,PRODUCT
+Synchro,1,GPE
+NOW W/ DIZZINESS,1,ORG
+FINDINGS BRAIN,1,PRODUCT
+s/p b/l,1,ORG
+s/p Lt,1,ORG
+GDC,1,ORG
+Labile,1,PERSON
+"ICU
+ REASON FOR THIS EXAMINATION",1,ORG
+Left thyroid,1,LOC
+gram,1,QUANTITY
+CXR/CT,1,ORG
+"Several
+ hours later",1,TIME
+"Multiple
+ pulmonary nodules",1,ORG
+AO,1,ORG
+D.L. PICC,1,ORG
+"SOB
+ REASON FOR THIS EXAMINATION",1,LAW
+"sob & fever
+ REASON FOR THIS EXAMINATION",1,ORG
+LLL w,1,ORG
+SOB,1,PRODUCT
+Mark Masciocchi,1,PERSON
+Lobular,1,PERSON
+Ethanol,1,PERSON
+node & lingula nodule,1,ORG
+Remaining,1,PERSON
+n&,1,ORG
+CC cm,1,ORG
+"Dobhoff
+ Admitting Diagnosis: PANCOAST TUMOR/SDA
+ _",1,ORG
+Large  hemorrhagic,1,PERSON
+Mesenteric CTA,1,ORG
+mcg,1,ORG
+new nystagmus,1,GPE
+lung s/p,1,PERSON
+IV Versed,1,PERSON
+HTN/HLD,1,ORG
+CEREBELLAR STROKE,1,PERSON
+LEFT UPPER,1,PERSON
+NIDDM,1,ORG
+"the
+ Circle",1,LOC
+VenaTech,1,ORG
+Obliterated,1,ORG
+MPtb TUE,1,PERSON
+the AAA,1,ORG
+an additional hour,1,TIME
+MR/ direct ENT,1,ORG
+left hemidiaphragm w/,1,GPE
+s/p ng,1,ORG
+Malignancy,1,PERSON
+Gallstone,1,PERSON
+Hypoplasia,1,PERSON
+ho osseos mets,1,GPE
+"CORONAL
+  RECONSTRUCTIONS",1,ORG
+"CA
+ REASON FOR THIS EXAMINATION",1,PRODUCT
+Optimal,1,NORP
+lung CA.,1,PERSON
+"Lung Ca
+ REASON",1,PERSON
+Two days,1,DATE
+"Symmetric
+ PA",1,ORG
+NSCLC w/,1,ORG
+Cervicothoracic,1,GPE
+Uncal,1,PERSON
+ECHO,1,ORG
+INTRA,1,GPE
+RA-SVC,1,ORG
+TRANSFUSION,1,PERSON
+Sos-Omni,1,ORG
+Sputum,1,PERSON
+AXR,1,ORG
+Postoperative Pancoast,1,PERSON
+SPfc FRI,1,ORG
+RBC,1,ORG
+"s/p R VATS
+ REASON FOR THIS EXAMINATION",1,ORG
+"s/p Dobhoff
+ REASON FOR THIS EXAMINATION",1,ORG
+Seven hours later,1,TIME
+PACS,1,GPE
+RUL p/w pre-syncopal,1,FAC
+trach & peg,1,ORG
+earlier in the morning,1,TIME
+"DWI
+ No",1,ORG
+Query,1,PERSON
+Advancement of the Dobbhoff,1,ORG
+FTW,1,ORG
+Aspergillus,1,NORP
+Heterogenous,1,ORG
+Prosthetic,1,ORG
+CALT,1,GPE
+Headache,1,FAC
+FAME,1,ORG
+approximately six hours,1,TIME
+Pneumobilia,1,GPE
+s/p midline,1,ORG
+Expected,1,LOC
+"SVC d
+ Admitting Diagnosis",1,ORG
+"LUNG CA/SDA
+ *",1,PERSON
+"one day
+ ago",1,DATE
+Possible,1,GPE
+Sats,1,NORP
+Cholecystitis,1,PRODUCT
+CARINA,1,ORG
+LUL VATS,1,ORG
+DVT p/w,1,ORG
+Contiguous MDCT,1,ORG
+Vetricle,1,PERSON
+approximately two hours earlier,1,TIME
+"Gallstone
+  Renal",1,ORG
+IVH s/p MVC,1,ORG
+IVH,1,ORG
+non-FDG,1,ORG
+non-FDG,1,NORP
+mid,1,DATE
+CM,1,ORG
+Slightly,1,LOC
+lung cncer s,1,ORG
+"the prior
+ day",1,DATE
+Haziness,1,ORG
+the past several days',1,DATE
+SUBCUTANEOUS EMPHYSEMA,1,PERSON
+LEFT LUNG AIRSPACE,1,PERSON
+INCREASED,1,GPE
+LUL NSCLC,1,ORG
+s/p VATS/LUL,1,ORG
+Picc Peg,1,PERSON
+known hepatic metastases,1,ORG
+Gangrene,1,PERSON
+Lisfranc,1,PERSON
+Charcot,1,FAC
+Osteomyelitis,1,GPE
+s/p L TMA,1,ORG
+GA,1,ORG
+p/w mental,1,ORG
+w/ MS,1,ORG
+Parapelvic,1,NORP
+LAT &,1,ORG
+eleventh rib,1,GPE
+male nsclc,1,PERSON
+PATIENT,1,PERSON
+Hiatus hernia,1,LOC
+s/p LUL VATS,1,ORG
+N/V/D,1,ORG
+Bibasilar,1,LOC
+VENOUS DUPLEX UPPER EXTREMITY,1,ORG
+LEFT                                          Clip,1,PERSON
+"LE ischemia -
+ REASON FOR THIS EXAMINATION",1,ORG
+s/p Ct,1,ORG
+Opacification of the left hemithorax,1,WORK_OF_ART
+Recommend CT for,1,ORG
+Clips,1,PERSON
+Chest Radiograph,1,PRODUCT
+LEFT UPPER EXTREMITY VENOUS ULTRASOUND,1,ORG
+Color,1,PERSON
+non-SCLC,1,NORP
+NSCLC s/p five cycle of,1,ORG
+"s/p
+  XRT",1,ORG
+"s/p XRT
+ REASON FOR THIS EXAMINATION",1,ORG
+"s/p LLL
+ REASON FOR THIS EXAMINATION",1,ORG
+CA s/p L,1,PERSON
+the summer,1,DATE
+PAH,1,ORG
+Rhilar,1,ORG
+Note,1,GPE
+LIJ TL,1,ORG
+subcutaneus emphysema,1,PERSON
+s/p LLL lung,1,ORG
+Hepatic,1,NORP
+T. Pinar,1,ORG
+s/p EGD,1,ORG
+the nostril,1,DATE
+Versed IV,1,GPE
+Kkaliann d/w Ms.[**Last Name,1,ORG
+DEFINITIVELY,1,PERSON
+cerebellar calcifications,1,PERSON
+osteoma,1,PERSON
+"IV
+ administration of",1,ORG
+Neoplasm,1,ORG
+s/p repair,1,ORG
+Eval Debhoff,1,PERSON
+"Technique on
+ today's",1,WORK_OF_ART
+earlier same date,1,DATE
+SINGLE UPRIGHT AP CHEST,1,ORG
+s/p SBR,1,ORG
+mesothelioma s/p intubtion for SIRS,1,ORG
+SIRS,1,ORG
+COPD s/p strangulated femoral hernia repair,1,ORG
+"HCAP
+ REASON FOR THIS EXAMINATION",1,ORG
+Strangulated,1,NORP
+RUQ PLEURATIC PAIN,1,ORG
+Left,1,PRODUCT
+CHF p/w,1,ORG
+Klebsiella,1,PERSON
+"hernia
+ REASON FOR THIS EXAMINATION",1,LOC
+ATAXIA,1,PERSON
+SPINE LIKELY,1,ORG
+CA W/,1,PERSON
+"CT s/p
+  pleurasentisis",1,ORG
+BX                   Clip,1,ORG
+"ICH
+ REASON FOR THIS EXAMINATION",1,ORG
+JCT FRI,1,PERSON
+subpulmonic pleural air,1,ORG
+lung zone,1,PERSON
+Fullness,1,GPE
+the past half day,1,DATE
+"Dobhoff
+ Admitting Diagnosis: UPPER",1,ORG
+DKA,1,ORG
+Dysphasia,1,ORG
+nectar thick liquid,1,PERSON
+Width,1,PERSON
+hemothorax s/p RUL,1,ORG
+Throat,1,PERSON
+"NSCLC
+ REASON FOR THIS EXAMINATION",1,PRODUCT
+"SOB
+ Admitting Diagnosis",1,FAC
+the Swan Ganz,1,WORK_OF_ART
+Intrafissural,1,ORG
+FINDINGS FOR CT OF THE CHEST,1,ORG
+NON-CONTRAST CT OF THE Chest,1,ORG
+SOMNOLENCE S/P VATS,1,ORG
+PLEURODESIS,1,ORG
+swan,1,PERSON
+Dubhoff,1,PERSON
+"S/P RT IJ
+ REASON FOR THIS EXAMINATION",1,ORG
+three years ago,1,DATE
+tacypnea,1,GPE
+Extensive,1,ORG
+SINGLE VW,1,ORG
+"fourteen
+ hours earlier",1,TIME
+Dobhov,1,PERSON
+Correlated,1,ORG
+Mini-Maze,1,PERSON
+"MAZE/Lobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+CSRU,1,ORG
+Unclear,1,PERSON
+CA w,1,PERSON
+Centrally,1,PERSON
+"GERD
+ REASON",1,PERSON
+Ommaya,1,GPE
+Staphylococcal,1,ORG
+"Noon
+ Admitting Diagnosis",1,FAC
+"Noon
+ REASON FOR THIS",1,FAC
+Noon,1,FAC
+Speech,1,ORG
+Maas,1,PERSON
+mid-zone,1,DATE
+CA s/p pneumonectomy,1,ORG
+Cb,1,ORG
+Left,1,GPE
+Ascites,1,ORG
+ABDOMEN CT W/IV CONTRAST,1,ORG
+Rectum,1,ORG
+Left lung carcinoma,1,PERSON
+One minute,1,TIME
+right sided pleural effusion,1,ORG
+pneumonia,1,GPE
+RUQ/RLQ,1,ORG
+last couple of days,1,DATE
+Three-mm,1,QUANTITY
+RT LEG EDEMA,1,ORG
+adeno Ca,1,PERSON
+Malpositioned,1,PERSON
+Alport,1,ORG
+dx lung adenoca,1,PERSON
+TIB,1,ORG
+BILAT                Clip,1,PERSON
+FEMURS,1,ORG
+Three days earlier,1,DATE
+Shrunken,1,GPE
+effuison,1,ORG
+NEEDLE PLACMENT,1,ORG
+COLD,1,GPE
+"s/p
+        LUL",1,ORG
+one day previous,1,DATE
+IUD,1,ORG
+s/p right subclavian,1,ORG
+"distress;s/p CODE BLUE
+ REASON FOR THIS EXAMINATION",1,ORG
+mid zone,1,GPE
+YR OLD WOMAN,1,FAC
+Left thyroid lobe,1,LOC
+Main,1,PERSON
+"s/p aspiration
+ REASON FOR THIS EXAMINATION",1,ORG
+Introducer,1,PERSON
+Schetty G-J,1,PERSON
+Speech Pathology Department,1,ORG
+ambrosia,1,GPE
+"the Speech
+ Pathology",1,ORG
+W/ AP CHEST RIGHT,1,ORG
+RIB,1,ORG
+Detail,1,PERSON
+"one
+ hour earlier",1,TIME
+Rhonchi,1,PERSON
+"Probable
+ RDS",1,WORK_OF_ART
+"eight
+ hours earlier",1,TIME
+ILD,1,ORG
+Two hours earlier,1,TIME
+Five hours earlier,1,TIME
+"three
+ hours earlier",1,TIME
+"earlier
+ same day",1,DATE
+CA,1,FAC
+s/p        LUL,1,ORG
+Left hilus,1,LOC
+lung pulmonary,1,PERSON
+Eventhough,1,ORG
+PTX  GWlms,1,PERSON
+SP FRI,1,ORG
+F c,1,ORG
+dense pleural collection,1,ORG
+right mid,1,DATE
+RUL & RML,1,ORG
+rt lung mass s,1,PERSON
+MRI,1,GPE
+Left Port-A- Cath,1,PERSON
+approx,1,GPE
+"The
+ Port-A-Cath",1,FAC
+Centrilobular,1,PRODUCT
+LEFT ARM,1,PERSON
+Attenuation,1,PERSON
+"MV
+ REASON FOR THIS EXAMINATION",1,ORG
+Bronchopleural,1,ORG
+POST-OP,1,ORG
+Attempts,1,PERSON
+grey,1,ORG
+"Opacification of the right
+ lower lung",1,WORK_OF_ART
+approximately two hours earlier the same day,1,TIME
+Plea,1,ORG
+Urologic,1,ORG
+DECR,1,ORG
+Peripheral,1,PRODUCT
+"DL
+
+         DR",1,ORG
+Residual,1,PERSON
+G/GJ/GI TUBE CHECK,1,ORG
+LUNG,1,ORG
+ELAVATED LFT,1,PERSON
+NSCLCa,1,ORG
+one-day earlier,1,DATE
+"s/p RLL Lobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+Nevertheless,1,LOC
+Redo,1,PERSON
+s/p RLLectomy,1,ORG
+DFDdp SUN,1,PERSON
+FINDINGS,1,PRODUCT
+cantonese,1,LANGUAGE
+Subsequently,1,GPE
+Postcontrast,1,ORG
+the Bronchoscopy Suite,1,FAC
+one half,1,CARDINAL
+Retzius,1,GPE
+EKG LEVELS,1,ORG
+UNILATERAL UPPER EXTREMITY VEINS,1,ORG
+"s/p extubation
+ Admitting Diagnosis",1,ORG
+Femoral Swan-Ganz,1,ORG
+"dophoff tube
+
+ REASON FOR THIS EXAMINATION",1,ORG
+UNILAT LOWER EXT VEINS LEFT,1,ORG
+LEFT LEG ASSESSF OR,1,PERSON
+Augmentation,1,PRODUCT
+Retzius,1,ORG
+Hypoventilatory,1,PERSON
+PORTABLE AP SUPINE VIEW OF THE CHEST,1,ORG
+PORTABLE AP SUPINE VIEW OF THE,1,ORG
+Eighty-year-old,1,DATE
+Neoplastic,1,LOC
+s/p sleeve,1,ORG
+seven,1,CARDINAL
+about one,1,CARDINAL
+the last seven-hour,1,DATE
+YR OLD WOMAN W/ COPD,1,FAC
+Sparse,1,PERSON
+"R &
+  L",1,ORG
+the Chest CT,1,ORG
+s/p OG,1,ORG
+only less than two hours,1,CARDINAL
+Cardiovascular,1,ORG
+"CT
+ REASON FOR THIS EXAMINATION",1,LOC
+Plate,1,ORG
+SINGLE UPRIGHT AP CHEST RADIOGRAPH,1,ORG
+Consistent,1,PERSON
+NOW W/,1,ORG
+S/P resection,1,ORG
+micronodular,1,NORP
+eavl ptx,1,PERSON
+Boar,1,GPE
+"CHF/L PTX
+ Admitting Diagnosis",1,ORG
+CHF/L PTX,1,ORG
+"Except for
+ resolution",1,ORG
+One hour,1,TIME
+Standard,1,PERSON
+Ventilated,1,GPE
+s/p R LL,1,ORG
+Basilar,1,FAC
+"PTX
+ Admitting Diagnosis: RIGHT LOWER LOBE CANCER/SDA",1,WORK_OF_ART
+s/p l-main,1,ORG
+"RT LEG ISCHEMIA
+ ********************************* CPT Codes",1,ORG
+EXTREMITY,1,ORG
+CPAP,1,ORG
+"RT LEG ISCHEMIA
+ Admitting Diagnosis",1,ORG
+this a.m.,1,TIME
+effusion/ hemothorax,1,PERSON
+PORTABLE,1,ORG
+"lung CA
+ REASON FOR THIS EXAMINATION",1,PERSON
+Blunting,1,PERSON
+"s/p RLL
+ REASON FOR THIS EXAMINATION",1,ORG
+Heimlich,1,NORP
+LEFT ELBOW,1,PERSON
+Fusion MR,1,ORG
+C/W Fusion,1,ORG
+s/p VATS L,1,ORG
+"s/p VATS
+ REASON FOR THIS EXAMINATION",1,ORG
+eightieth,1,ORDINAL
+ten hours,1,TIME
+profunda femoris,1,PERSON
+A-GRAM,1,PRODUCT
+STATUS POST BRONCH WITH MUCOUS PLUGGING,1,ORG
+S/P  Intubation for lUl,1,ORG
+s/p biopsy,1,ORG
+"CEREBELLAR MASSES
+ REASON",1,PERSON
+GADOLINIUM,1,ORG
+gloima,1,PERSON
+s/p right IJ,1,ORG
+Drop,1,ORG
+NSCLCA-,1,PERSON
+four days,1,DATE
+Nonionic IV,1,FAC
+PLease evaluate,1,ORG
+ASSES FOR PNA,1,ORG
+s/p PTX,1,ORG
+Heavy,1,ORG
+i.e,1,GPE
+Multilevel DJD,1,PERSON
+Milder,1,PERSON
+SINGLE AP SUPINE VIEW OF CHEST,1,ORG
+hiatal,1,ORG
+LOWER EXTREMITY VEINS,1,ORG
+LUNG,1,PERSON
+"SOB
+ REASON FOR THIS EXAMINATION",1,PRODUCT
+Right fourth and,1,DATE
+LEFT CTA RUNOFF:,1,PERSON
+right fourth and seventh,1,DATE
+Polytrauma,1,ORG
+LEFT                      Clip,1,PERSON
+Coronary,1,PERSON
+Left posterior,1,LOC
+s/p pleural effusion,1,ORG
+vena,1,PERSON
+MIP,1,PERSON
+THR,1,ORG
+C/o inc SOB,1,ORG
+s/p OGT,1,ORG
+eight hours ago,1,TIME
+BX SUPERFISCAL CER,1,ORG
+AXL,1,ORG
+Cytology,1,ORG
+Multiplanar CT,1,ORG
+VR,1,ORG
+LEFT PORT                                       Clip,1,PERSON
+BPH,1,ORG
+Cordis,1,ORG
+bleed v. mass,1,PERSON
+cerebellar hemispheres,1,PERSON
+Intensive Care Unit ASAP,1,ORG
+CERVICAL SPINE,1,ORG
+s/p VP,1,ORG
+"two days
+ ago",1,DATE
+VP,1,ORG
+Pineal,1,ORG
+NSCSLC,1,ORG
+Multiple rib,1,ORG
+Hardcopy,1,PERSON
+Six hours earlier,1,TIME
+Abd,1,PERSON
+the MR of,1,ORG
+femur fx s/p ORIF,1,ORG
+LOWER EXTREMITY FLUORO WITHOUT RADIOLOGIST LEFTClip #,1,ORG
+HIP FX,1,ORG
+Suspected,1,ORG
+Portacaval,1,PERSON
+Sequela,1,GPE
+HERNIATION,1,GPE
+BLjb WED,1,ORG
+LEFT BRONCH,1,PERSON
+STENT PL,1,PERSON
+FLUOROSCOPIC RADIOGRAPHS,1,ORG
+Opacification of the left hemithorax persists,1,WORK_OF_ART
+"Extensive
+ coronary atherosclerotic vascular calcifications",1,WORK_OF_ART
+UC,1,GPE
+"Opacification of the remainder
+ of the left lung",1,WORK_OF_ART
+"approximately four
+ hours",1,QUANTITY
+CTH,1,ORG
+one hour earlier the same day,1,TIME
+Calculi,1,GPE
+PM,1,EVENT
+bl lung CA,1,PERSON
+AP Chest,1,ORG
+"CA s/p
+  Y",1,ORG
+Calcified granuloma,1,PRODUCT
+"CXR
+ REASON FOR THIS EXAMINATION",1,ORG
+Needs PICC,1,ORG
+MET NSCLC,1,ORG
+AHPb,1,CARDINAL
+non-SCLC,1,ORG
+Minimal,1,LANGUAGE
+intuba,1,GPE
+RLL pna,1,ORG
+Schmorls,1,PERSON
+w hematuria,1,ORG
+Sunday,1,DATE
+"s/p LLLobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+between eight and ninth,1,DATE
+"PA s/p
+  chest tube",1,ORG
+Findnigs,1,PERSON
+three months,1,DATE
+Ordering,1,NORP
+Rigid,1,PERSON
+"SOB
+ REASON FOR THIS EXAMINATION",1,FAC
+CAP,1,ORG
+"PLease e
+  Contrast",1,ORG
+Polyps,1,PERSON
+Fifty-seven year old,1,DATE
+PMH HTN,1,ORG
+NGTube,1,ORG
+LETHARGIC,1,ORG
+SCLC p/w LE,1,ORG
+approximately one year ago,1,DATE
+"the next few
+ hours",1,DATE
+"three
+  months",1,DATE
+pneuonia,1,GPE
+p RM,1,ORG
+annuli,1,GPE
+s/p RML/RLLobectomy R,1,ORG
+PTXchest,1,ORG
+"s/p RML/RULobectomy w/residual PTX
+ REASON FOR THIS EXAMINATION",1,ORG
+Hypoxia,1,PERSON
+"PBIshop
+ _",1,ORG
+the past five months,1,DATE
+more than a year,1,DATE
+lipoma,1,ORG
+L pleural,1,GPE
+SINGLE UPRIGHT AP,1,ORG
+Aorta,1,ORG
+lung & prostate,1,ORG
+Perihepatic,1,LOC
+aorta,1,WORK_OF_ART
+s/p suboccip,1,ORG
+SKULL,1,ORG
+ELBOW,1,ORG
+the last week,1,DATE
+Lymphangetic,1,PRODUCT
+"metastasi
+  Contrast",1,ORG
+Malignant,1,PERSON
+KNOWN L HUMERUS,1,ORG
+Chest Xray,1,ORG
+mass.,1,GPE
+FIVE,1,CARDINAL
+cardiomegaly and/or,1,ORG
+w/ NSCL,1,PERSON
+Month/Day/Year,1,DATE
+Tertiary,1,DATE
+"Three
+ metallic markers",1,QUANTITY
+PERVENTRICULAR WHITE,1,PERSON
+UNCHANGED,1,ORG
+Locate,1,PERSON
+WF s/p,1,ORG
+C. Dif,1,PERSON
+"s/p PEA
+ REASON FOR THIS EXAMINATION",1,ORG
+Moreoever,1,ORG
+Thirty-nine year old,1,DATE
+PATH,1,ORG
+UNILATERAL LOWER EXTREMITY VEIN ULTRASOUND,1,ORG
+"PO
+ CONTRAINDICATIONS",1,FAC
+LEFT flank pain,1,PERSON
+Hepatosplenic,1,GPE
+LEFT UPPER EXTREMITY VEINS ULTRASOUND,1,ORG
+Rereview,1,ORG
+granuloma,1,DATE
+PLEASE SEND TISSUE FOR,1,ORG
+GRAM STAIN,1,PERSON
+HYPOXEMIA,1,ORG
+AEROBIC,1,ORG
+ANAEROBIC CX,1,ORG
+FUNGAL,1,ORG
+Specimens,1,GPE
+"node
+ enlargement",1,ORG
+Screw,1,DATE
+Exclude,1,ORG
+Ventricular,1,PERSON
+NSCLA CA,1,LAW
+Accustick,1,GPE
+cerebellar metastases,1,PERSON
+LUL NSCLC s/p L,1,ORG
+Patch,1,NORP
+cerebellar metastases,1,ORG
+Spurring,1,PERSON
+Tube,1,PERSON
+"Urgent
+ neurosurgical consultation",1,ORG
+first day,1,DATE
+"RIJ
+ Admitting Diagnosis: SEPSIS",1,WORK_OF_ART
+"s/p L Pneumonectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+Subq,1,PERSON
+s/p RUL VATS s/p,1,ORG
+RML,1,PERSON
+RU,1,ORG
+s/p RUL/RMLobectomy CT,1,ORG
+nodule s/p RUL VATS,1,ORG
+"s/p BAL
+ REASON FOR THIS EXAMINATION",1,ORG
+BAL,1,PRODUCT
+RMLobectomy,1,ORG
+s/p RUL/RMLobectomy R anterior & Post,1,ORG
+"Left IJ
+ REASON FOR THIS EXAMINATION",1,PRODUCT
+contarst,1,ORDINAL
+Lidocaine,1,PERSON
+particle embolization,1,ORG
+ABOVE,1,ORG
+Peripheral IV,1,ORG
+minute,1,TIME
+Saturday,1,DATE
+PORTABLE UPRIGHT AP,1,ORG
+catether,1,CARDINAL
+lung crackles,1,PERSON
+Sclerosis,1,ORG
+h/o SCLC,1,ORG
+"Interventional
+ Radiology Fellow Dr.",1,ORG
+s/p rll wedge resection,1,ORG
+"s/p rll wedge resection
+
+ REASON",1,ORG
+s/p L PICC,1,ORG
+Pacemaker/AICD,1,ORG
+MSRA,1,PERSON
+Stat-Lock,1,ORG
+primary lung,1,PERSON
+Swollen,1,PERSON
+"BED REST POST ANGIO
+  UPTO",1,ORG
+Angiogram,1,GPE
+Pope,1,PERSON
+Septal,1,LOC
+ho CAD p/w SOB,1,ORG
+MH SUN,1,ORG
+"S/P VATS
+ Admitting Diagnosis",1,ORG
+W,1,ORG
+p/w tachycardia,1,ORG
+FDG-PET/CT,1,ORG
+O.R.,1,FAC
+"LUNG CANCER;WEAKNESS
+ Admitting Diagnosis",1,ORG
+NSCLC s/p OR,1,ORG
+SGC,1,ORG
+Right-,1,GPE
+Pox,1,LOC
+#-[**Numeric,1,MONEY
+F/,1,PRODUCT
+PORTABLE SUPINE AP CHEST @,1,ORG
+PORTABLE SUPINE AP CHEST,1,ORG
+ET Tube,1,ORG
+The Swan-Ganz,1,EVENT
+Clivus,1,ORG
+Endocarditis,1,PERSON
+"About
+ half",1,CARDINAL
+Elevated,1,LOC
+Radiologist,1,PERSON
+SINGLE CONTRAST UPPER GI,1,ORG
+a Stat Lock,1,WORK_OF_ART
+ENTEROCUTANEOUS,1,PERSON
+Gastrografin,1,PERSON
+s/p,1,MONEY
+s/p subclavian central venous line,1,ORG
+creatnine=,1,GPE
+FISP,1,ORG
+PE w/CT,1,ORG
+VIBE,1,NORP
+"AM
+ PICC LINE PLACMENT",1,ORG
+CPN,1,ORG
+M.D.  Attending,1,PERSON
+BARD,1,ORG
+Tegaderm,1,PERSON
+One hour earlier,1,TIME
+w/cough &,1,ORG
+colitis s/p,1,ORG
+DISH,1,ORG
+the azygos vein,1,ORG
+Left rib,1,LOC
+"s/p bronch/med
+
+ REASON FOR THIS EXAMINATION",1,ORG
+Left lung looks,1,PERSON
+s/p Swan-Ganz,1,ORG
+SPOT,1,DATE
+"ANALYSIS
+ _",1,LAW
+G.I.,1,GPE
+apical pleural opacities,1,ORG
+Patient S/P,1,ORG
+C.diff,1,DATE
+Polycystic,1,NORP
+Vaxel,1,ORG
+ULTRASOUND-GUIDED THORACENTESIS,1,ORG
+Betadine,1,ORG
+"Please p
+ _",1,ORG
+S/P LUL,1,ORG
+Lethargic,1,PERSON
+TademHeart,1,ORG
+Tandem,1,ORG
+Left flank hernia,1,LOC
+Mucoid,1,GPE
+Nixon,1,PERSON
+PROGRESSIVE TACHYCARDIA,1,ORG
+Wand,1,ORG
+Female,1,PERSON
+Aortobifemoral,1,ORG
+PVR,1,ORG
+DMII,1,ORG
+Native,1,NORP
+"CAD
+ REASON FOR THIS EXAMINATION",1,ORG
+cm/sec,1,ORG
+LUG,1,ORG
+NEED,1,PERSON
+LIVER,1,ORG
+ADRENALS,1,ORG
+Value,1,ORG
+the Emergency Department,1,ORG
+new cvl,1,PERSON
+Thel,1,PERSON
+RT ARM,1,PERSON
+Evalute,1,LOC
+TUESDAY,1,DATE
+bilat PE,1,ORG
+Argon Plasma Coagulation,1,ORG
+PMH DJD,1,ORG
+Micaelson,1,PERSON
+collapse & pna LLL,1,ORG
+"s/p LLLobectomy
+ Admitting Diagnosis",1,ORG
+"s/p LLLobectomy
+ _",1,ORG
+s/p ABX,1,ORG
+GIB,1,ORG
+C/Lspine,1,ORG
+the gadolinium injection-,1,ORG
+s/p chemo with fever,1,ORG
+s/p rt,1,ORG
+chemotx/xrt,1,ORG
+JHjc TUE,1,PERSON
+Liver,1,PERSON
+Centrilobular,1,FAC
+Ca,1,WORK_OF_ART
+MAlb FRI,1,ORG
+lacunar,1,LOC
+RESOURCE,1,ORG
+Sternotomy,1,ORG
+Left lung base atelectasis,1,PERSON
+"PTX
+ Admitting Diagnosis: RIGHT LOWER LOBE CANCER/",1,FAC
+Prior PE,1,PERSON
+s/p right,1,ORG
+s/p Lobectomy,1,ORG
+s/p sigmoid colon resection,1,ORG
+Hartmann,1,GPE
+Supine,1,ORG
+Exploratory,1,PERSON
+Hartmann,1,PERSON
+"the
+ diaphgram",1,LOC
+the last five years,1,DATE
+"the past several
+ days",1,DATE
+Sixty-four year old,1,DATE
+LOWER EXTREMITY VENOUS DUPLEX,1,ORG
+"END STAGE NSCLCA
+ Admitting Diagnosis: CHEST PAIN
+  Contrast",1,ORG
+approximately ten hours,1,TIME
+ELEVATED LFT,1,PERSON
+"GUID WIRES INCL INF              *
+ *",1,ORG
+LAO,1,ORG
+Descending,1,PERSON
+CTE,1,ORG
+s/p C. diff,1,ORG
+Reticulonodular,1,ORG
+Elevated,1,FAC
+Earlier the same date,1,DATE
+"CLL
+ REASON FOR THIS EXAMINATION",1,ORG
+"s/p TBBX
+ Admitting Diagnosis",1,ORG
+"adenoca lung s/p TBBx
+ REASON FOR THIS EXAMINATION",1,PERSON
+s/p TBBX,1,ORG
+adenoca lung s/p TBBx,1,PERSON
+RT UE HEMITHROMBOSIS,1,ORG
+F w/,1,ORG
+jug dl,1,PERSON
+Informed,1,PERSON
+s/p PICC pl,1,ORG
+RT IJ,1,ORG
+PNA/c. diff/ARF,1,ORG
+RESPIRATORY FAILURE,1,ORG
+RECURRENT,1,ORG
+LUNG CA,1,PRODUCT
+Evalu,1,LOC
+LEFT                                       Clip,1,PERSON
+Bulging,1,PERSON
+eval hemothorax,1,PERSON
+adnexal mass,1,PERSON
+the Glidewire,1,LOC
+the IVC OptEase,1,ORG
+the IVC-gram,1,EVENT
+IVC-gram,1,ORG
+V.  Proximal,1,PERSON
+lung mass s/p lung,1,PERSON
+adnexal cyst,1,PERSON
+s/p SVC,1,ORG
+Midline,1,PERSON
+Glottic,1,NORP
+Digital,1,ORG
+Bronchi,1,ORG
+percardial & pleural effusions,1,ORG
+right pleural fluid,1,ORG
+AccuStick,1,PRODUCT
+Accustick,1,PRODUCT
+Accustick,1,FAC
+Resistive,1,ORG
+Omni,1,ORG
+The nasopharynx,1,DATE
+current day,1,DATE
+"LEG INFRACTION;RULE OUT TUBERCULOSIS
+ ********************************* CPT Codes",1,ORG
+minutes ago,1,TIME
+Fr Cook,1,PERSON
+"the Cobra
+ Glidecatheter",1,WORK_OF_ART
+"the Cobra
+ Glidecatheter",1,PERSON
+"LUL
+  w",1,ORG
+Iliac,1,ORG
+LEG INFRACTION;RULE OUT,1,ORG
+Le,1,FAC
+hep,1,GPE
+Brachiocephalic,1,NORP
+Hounsfield,1,PERSON
+"LEG INFRACTION;RULE OUT TUBERCULOSIS
+ Admitting Diagnosis:",1,ORG
+Septic,1,LOC
+"R CVL
+ Admitting Diagnosis: RIGHT LOWER LEG ISCHEMIA;RIGHT",1,PRODUCT
+four weeks,1,DATE
+four to six weeks,1,DATE
+Dobbhoff Tube,1,PRODUCT
+Lymph,1,PERSON
+s/p intubation w/ RUL,1,ORG
+BONES/SOFT TISSUES,1,ORG
+melena,1,ORG
+Choletec,1,PERSON
+"EUS
+ REASON FOR THIS EXAMINATION",1,ORG
+cavitary lung,1,PERSON
+s/p angiogram,1,LAW
+Tubing,1,PERSON
+bronchomalacia,1,PERSON
+from years ago,1,DATE
+RAF,1,ORG
+LLL VATS,1,ORG
+"L CT
+ Admitting Diagnosis",1,ORG
+O.R.                                   Clip,1,FAC
+CA s/p LLL,1,ORG
+"the
+ Intensive Care Unit",1,ORG
+"CEREBELLAR BLEED
+ Admitting Diagnosis",1,PERSON
+femoral,1,NORP
+cerebellar bleed,1,PERSON
+MH,1,ORG
+Fluoro,1,GPE
+"FINDINGS
+
+ MR CERVICAL SPINE",1,ORG
+Hepatic,1,GPE
+"the
+ PET CT",1,ORG
+Intravenous,1,PERSON
+Multiple intracranial metastases,1,ORG
+BEDSIDE AP RADIOGRAPH OF THE CHEST,1,ORG
+hematomas s/p RIJ,1,ORG
+Cardiomyopathy,1,PERSON
+Hematomas,1,ORG
+Review,1,ORG
+two-day,1,DATE
+trapezius,1,ORG
+DM w/ LMCA,1,ORG
+COW,1,ORG
+Distally,1,LAW
+RT HEMOTHORAX,1,PERSON
+PTX ON RT SIDE DURING,1,ORG
+More than half,1,CARDINAL
+Worsened,1,ORG
+Apropriate,1,ORG
+Constant,1,PERSON
+"RULobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+Similar,1,NORP
+ETOH Cirrhosis and Hematemesis,1,ORG
+mile cardiomegaly,1,PERSON
+WF s/p Right VATS s,1,ORG
+Draining,1,PERSON
+s/p right central line place,1,ORG
+s/p right central line,1,ORG
+"six
+ hours",1,TIME
+twenty minutes earlier,1,TIME
+bullae,1,GPE
+Left pleural drains,1,LOC
+eval s,1,ORG
+"LOBE NODULE/SDA
+ **",1,ORG
+Seven hours earlier,1,TIME
+"OGT
+ Admitting Diagnosis",1,ORG
+LEFT HAND,1,PERSON
+s/p r upperlobectomy   inc rr,1,ORG
+s/p r,1,ORG
+"eval PTX
+ Admitting Diagnosis: RIGHT UPPER NODULE/SDA
+ _",1,PERSON
+s/p r upperlobectomy s/p ant chest tube,1,ORG
+"s/p r upperlobectomy
+
+ REASON FOR THIS EXAMINATION",1,ORG
+"s/p RUL
+
+ REASON FOR THIS EXAMINATION",1,ORG
+sta,1,PERSON
+eval inc atelectasis/,1,ORG
+s/p broncho & PDT,1,ORG
+the two days,1,DATE
+Fifty-two year old,1,DATE
+NSCLC s/p tracheal,1,ORG
+Hemodynamically,1,PERSON
+hematoma s,1,PERSON
+MRV,1,ORG
+the ET Tube,1,ORG
+Sixty-six year old,1,DATE
+NSCCA,1,ORG
+Morison,1,PERSON
+the Clinical Team,1,ORG
+Bay State Hospital,1,FAC
+Chemo,1,PERSON
+eleven days ago,1,DATE
+POST-WATER SOLUBLE CONTRAST INJECTION,1,ORG
+VCT,1,ORG
+"past
+  seven years",1,DATE
+"The
+ PICC",1,ORG
+OSH Xray,1,ORG
+Negative,1,ORG
+mcg IV,1,FAC
+CA p/w PE,1,ORG
+LAT,1,ORG
+Heparin,1,LANGUAGE
+hemothorax s/p right VATS evacuation,1,ORG
+dysphagia s/p cva,1,PERSON
+Chin,1,PERSON
+CareWeb,1,WORK_OF_ART
+Peripneumonic,1,NORP
+Assess ETT,1,ORG
+Multiplanar,1,PERSON
+S/P MI,1,ORG
+s/p ETT,1,ORG
+"dysphagia s/p cva
+ Admitting Diagnosis",1,PERSON
+twelve hours,1,TIME
+EtOH cirrhosis,1,ORG
+ABDOMINAL US,1,PERSON
+The ETT,1,ORG
+ETOH Cirrhosis,1,ORG
+PO contrast;creatinine,1,ORG
+Rightt,1,PERSON
+ABD/PEL                                             Clip,1,ORG
+s/p BATS,1,ORG
+L PNA,1,ORG
+COPP,1,PERSON
+multilobar,1,GPE
+this month,1,DATE
+RT RIB PAIN,1,PERSON
+"the
+ PICC",1,FAC
+the left hepatic dome,1,ORG
+Pneumobilia,1,ORG
+VATS LLL,1,ORG
+s/p L VATs,1,ORG
+clinicians,1,NORP
+s/p RIJ Swan Ganz,1,ORG
+Lung Ca s/p LUL Lobectomy,1,PERSON
+Swan,1,NORP
+Lidocaine Jelly,1,ORG
+UNILAT LOWER EXT VEINS LEFT PORT                                Clip,1,ORG
+LEFT LOWER EXTREMITY VENOUS ULTRASOUND,1,ORG
+"the
+ Dobhoff",1,GPE
+the past week,1,DATE
+Multislice,1,PERSON
+Bone Windows,1,PERSON
+Facet,1,PERSON
+recent date,1,DATE
+Lymphangio,1,ORG
+LLL & w/,1,ORG
+s/p d/c chest,1,ORG
+Atrial Fibrillation,1,ORG
+pulmonary hematoma,1,PERSON
+S/p LULobectomy,1,ORG
+"Afib
+ REASON FOR THIS EXAMINATION",1,ORG
+O.R.                                        Clip,1,FAC
+s/p L VATS LULectomy,1,ORG
+LUL PNA,1,ORG
+Abx,1,PERSON
+some one centimeter,1,QUANTITY
+RAY,1,ORG
+Potential,1,ORG
+night,1,TIME
+lul,1,ORG
+Dx LUL,1,PERSON
+RT LEG PAIN,1,ORG
+"lung expans
+ Admitting Diagnosis",1,PERSON
+Query PE,1,ORG
+Focus,1,ORG
+"two
+ days",1,DATE
+Weighted,1,ORG
+"""Health Alliance",1,ORG
+Serpentine,1,ORG
+w. brain,1,PERSON
+THE PRIOR DAY,1,DATE
+Four days,1,DATE
+adeno-CA,1,PERSON
+myelomalacia,1,QUANTITY
+Cholangitis,1,PERSON
+ET/NG,1,ORG
+Multilevel,1,GPE
+inc L,1,ORG
+Described,1,PERSON
+"Post-IV
+ administration of contrast",1,ORG
+the right hepatic dome,1,ORG
+pericardiac pleural fluid,1,ORG
+"PLACEMENT
+ Admitting Diagnosis",1,PERSON
+LLL/RLL/RUL,1,ORG
+"Left
+ Port-A-Cath",1,FAC
+VOLUMETRIC                               Clip,1,PERSON
+approximately four hours earlier,1,TIME
+Bilobectomy,1,GPE
+RENAL FUNCTION,1,PERSON
+"IP
+ No contraindications",1,ORG
+VERTICAL,1,ORG
+FINDINGS DISCUSSED,1,PERSON
+ON,1,ORG
+lung adenoca s,1,PERSON
+this evening,1,TIME
+"LLung
+ Admitting Diagnosis",1,ORG
+Bracken,1,PERSON
+Tense,1,ORG
+Numerically,1,PERSON
+a few hours,1,TIME
+NSCLC s/p tracheal stent,1,ORG
+bilateraly,1,GPE
+Radiopaque,1,ORG
+BRB,1,ORG
+Left subclavian arteriogram,1,LOC
+"S/P FALL
+  Contrast",1,ORG
+RA/SVC,1,ORG
+YO,1,PERSON
+"Pulm emboli
+ REASON FOR THIS EXAMINATION",1,LOC
+Central Pulm,1,LOC
+lung volumes,1,PERSON
+less than a centimeter,1,QUANTITY
+"LWS
+ REASON FOR THIS EXAMINATION",1,ORG
+hemothorax s/p CT,1,ORG
+"FINAL REPORT
+ CERVICAL SPINE",1,ORG
+s/p APC,1,ORG
+"ICU p
+ Admitting Diagnosis: SHORTNESS OF BREATH;PLEURAL EFFUSION
+ _",1,ORG
+nsclc s,1,PERSON
+S/p R,1,ORG
+Initial CTA,1,ORG
+Successful Embosphere,1,ORG
+Juxtahilar,1,PERSON
+Effusion,1,FAC
+"PTXpresently Ac
+ Admitting Diagnosis: HYPOXIA",1,ORG
+PTXpresently Acute,1,ORG
+S.,1,PERSON
+Combinations of Ensnare,1,ORG
+Attempted Wallstent,1,ORG
+Approximately half,1,CARDINAL
+"Bronchoalveloar Cancer
+ REASON",1,PERSON
+approximately one,1,CARDINAL
+Vietnamese,1,NORP
+six hours ago,1,TIME
+Curved,1,ORG
+nectar thick barium,1,PERSON
+Two hour,1,TIME
+"Plea
+ Admitting Diagnosis",1,ORG
+HDL,1,ORG
+Slightly Atrophic,1,PERSON
+hamartomas and/or small hepatic,1,PERSON
+"PTX sm-mod
+ REASON FOR THIS EXAMINATION",1,FAC
+"ICA
+
+  Rt apical",1,ORG
+nodule s/p RVATs,1,ORG
+"Characterization of
+ metastatic disease for potential biopsy",1,WORK_OF_ART
+resectionCT,1,PERSON
+Syncopal,1,PERSON
+Large,1,GPE
+Leiden,1,GPE
+Deformities,1,NORP
+the preceding day,1,DATE
+Cortical,1,ORG
+lymphoma,1,GPE
+"CA s/p trach
+ REASON FOR THIS EXAMINATION",1,PERSON
+Complex,1,PRODUCT
+chemotherapy s/p,1,ORG
+the same day later,1,DATE
+"the past
+ several days",1,DATE
+Coronal MIP,1,ORG
+BILATERAL VENOUS EXTREMITY ULTRASOUND,1,ORG
+Left brachiocephalic vein,1,PERSON
+nine,1,CARDINAL
+VI/VII,1,ORG
+thoracic trachea,1,PERSON
+IIIB s/p,1,ORG
+"Unchanged ETT & R
+  SC",1,ORG
+cm hyperdensity,1,PERSON
+Earlier the same day,1,DATE
+Decr,1,ORG
+s/p L CT,1,ORG
+L Thoracotomy LULobectomy s/p L,1,ORG
+LULobectomy Pigtail,1,ORG
+s/p LULobectomy persistent,1,ORG
+\,1,PERSON
+Attenuation,1,NORP
+VERTIGO,1,ORG
+FLUOROSCOPIC,1,ORG
+less than one hour earlier,1,TIME
+NSCLC/SCLC p/w pleural,1,ORG
+CENTRAL/PICC W,1,ORG
+Xray,1,GPE
+Preoperative CT,1,PERSON
+septum vergae,1,ORG
+two months,1,DATE
+vietnamese,1,NORP
+i.v.,1,GPE
+Ruloe,1,PERSON
+"s/p pleurex
+ REASON FOR THIS EXAMINATION",1,ORG
+seven-hour,1,TIME
+Cardia,1,GPE
+Metastic CA CP,1,PERSON
+CTV,1,ORG
+"the
+ Admitting Diagnosis: PERICARDIAL TAMPONADE",1,FAC
+PIG,1,ORG
+RX,1,ORG
+"PERICARDIAL TAMPONADE
+ REASON FOR THIS EXAMINATION",1,ORG
+GERD,1,ORG
+Minor,1,ORG
+Nondilated,1,ORG
+Splenic,1,LOC
+"AAA
+ REASON FOR THIS EXAMINATION",1,ORG
+baseline emphysema,1,PERSON
+Appreciable,1,PERSON
+"XR
+ REASON FOR THIS EXAMINATION",1,ORG
+"Compression Fx
+ Admitting Diagnosis",1,PERSON
+Compression Fx,1,PERSON
+two-week,1,DATE
+TKA,1,ORG
+Dependent,1,PRODUCT
+Vital,1,ORG
+neuro rad bx,1,PERSON
+Brewer,1,LOC
+Cook,1,PERSON
+Aerobic,1,NORP
+Compression fracture,1,ORG
+contra,1,NORP
+s/p EVAR,1,ORG
+s/p EVAr,1,ORG
+"s/p RMlobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+UE,1,PERSON
+BILAT UE,1,PERSON
+"the Ligament of
+ Treitz",1,ORG
+Expected,1,ORG
+heparin drip,1,GPE
+last pm,1,TIME
+Recommend echocardiogram,1,ORG
+Nonoccluding,1,ORG
+VENATECH IVC,1,ORG
+Hypoxemia,1,GPE
+Navigation,1,NORP
+DVT of RUE,1,ORG
+"POST-OP
+ No contraindications",1,ORG
+Linear,1,PERSON
+"s/p r upper lobectomy -
+ REASON FOR THIS EXAMINATION",1,ORG
+Signif,1,GPE
+CI,1,PERSON
+"Left PTX
+ Admitting Diagnosis",1,PERSON
+Right IJ,1,EVENT
+CA s/p CABG,1,ORG
+the Swan-Ganz,1,FAC
+Mass,1,GPE
+COMPLETED,1,ORG
+s/p L subclavian line,1,ORG
+JWK WED,1,ORG
+UGI,1,ORG
+"approximately six
+ hours earlier",1,TIME
+"FINDINGS
+
+ AP SUPINE SINGLE VIEW OF THE CHEST",1,ORG
+right brachiocephalic vein,1,ORG
+s/p median,1,ORG
+Appropriate ET,1,ORG
+tracheobronchomalacia,1,PERSON
+the Thoracic Surgery Team,1,ORG
+"tachypnea s/p RUL lobectomy
+ REASON FOR THIS EXAMINATION",1,ORG
+S/P BILATERAL,1,ORG
+Centrilobular,1,ORG
+Subsegmental,1,ORG
+AM,1,EVENT
+markings--,1,GPE
+Yesterday,1,DATE
+"s/p CT pull
+ Admitting Diagnosis: PERICARDIAL EFFUSION",1,ORG
+Views,1,ORG
+bilat cerebellar hemispheres,1,ORG
+EXT VEINS US PORT                                     Clip,1,ORG
+A Swan-Ganz,1,WORK_OF_ART
+FXD,1,ORG
+Periventricular,1,WORK_OF_ART
+cerebellar parenchyma,1,PERSON
+incisura,1,GPE
+Frank,1,PERSON
+Pt s/p,1,ORG
+"three
+ hours",1,TIME
+Port,1,GPE
+Steri-Strips,1,PERSON
+ICP,1,PERSON
+Ativan,1,NORP
+Nonspecific,1,LOC
+Lung nodule,1,PERSON
+"INTERMITTENTLY FEBRILE - EVAL FOR BLEED
+ _",1,ORG
+"Earlier, same day",1,DATE
+"Sat
+ REASON FOR THIS EXAMINATION",1,LOC
+Beside AP,1,ORG
+sob s/p,1,ORG
+"L. Elevated WBC
+ REASON",1,PERSON
+node mass.,1,ORG
+peripheral mucoid,1,ORG
+Hep C,1,PERSON
+Air fluid,1,PRODUCT
+RSBI,1,PERSON
+LUMBOSACRAL SPINE AP,1,ORG
+FEMUR,1,ORG
+LEFT                   Clip,1,ORG
+HUMERUS,1,ORG
+LEFT SHOULDER,1,PERSON
+"MVA
+ _",1,ORG
+nodule s/p R SC,1,ORG
+"a few hours
+ earlier",1,TIME
+"PS
+ REASON FOR THIS EXAMINATION",1,ORG
+Fever,1,ORG
+EC,1,ORG
+Chemotherapy,1,ORG
+Aspergillosis,1,ORG
+approximately six weeks,1,DATE
+the mastoid air,1,ORG
+"PULMONARY EMBOLISM
+ Field",1,PERSON
+Opitray,1,ORG
+cm pleural,1,PERSON
+HEP,1,ORG
+Resistant Klebsiella,1,PERSON
+klebsiella pna,1,PERSON
+prior pancreatitis,1,PERSON
+s/p aspiration event,1,ORG
+Cadiac,1,PERSON
+NG Tube,1,ORG
+"the prior
+ day's",1,DATE
+the past day,1,DATE
+RUQ PAIN,1,PERSON
+ABDOMEN POST CONTRAST,1,ORG
+JHjc WED,1,PERSON
+IIIB s/p chemo and radiation,1,ORG
+the prior days,1,DATE
+Left lung non-small cell lung,1,PERSON
+Mickeeson,1,PERSON
+IIIB,1,ORG
+pleural fluid and/or,1,PERSON
+"PO CONTRAST
+ REASON FOR THIS EXAMINATION",1,ORG
+air fluid,1,PRODUCT
+w/?met,1,DATE
+Immediate,1,ORG
+O.R.       Clip,1,FAC
+upper motor neuron,1,ORG
+"RR Distress
+ Admitting Diagnosis",1,ORG
+Left Dobbhoff,1,PERSON
+Eleven hours earlier,1,TIME
+lung nodule,1,PERSON
+s/p L subclavian,1,ORG
+Mediastinal,1,DATE
+Prior AP,1,PERSON
+Shunt,1,ORG
+Multinodular,1,NORP
+tacycardia,1,ORG
+Hypercapnia,1,GPE
+"MR CONTRAST GADOLIN
+ Reason",1,ORG
+proximal profunda,1,PERSON
+Assess PTX,1,ORG
+"approximately nine
+ hours",1,QUANTITY
+Month/Year,1,DATE
+EMG,1,ORG
+Endplate,1,FAC
+the past two and a half weeks,1,DATE
+MR PITUITARY W&W/O CONTRAST           Clip,1,ORG
+BKA,1,ORG
+s/p attempted picc line,1,ORG
+TPN,1,PRODUCT
+"six
+ months previous",1,DATE
+Crit,1,ORG
+Osteopenia,1,GPE
+Evaulate,1,PERSON
+BS,1,ORG
+Suggest,1,LOC
+ten-day,1,DATE
+Limited Doppler,1,PERSON
+GSV,1,ORG
+CA s/p XRT,1,PERSON
+"BO
+ REASON FOR THIS EXAMINATION",1,PRODUCT
+Recent,1,GPE
+"Opacification of the right hemithorax on chest
+ radiographs",1,WORK_OF_ART
+Persistent collapse/,1,PRODUCT
+PEEP,1,ORG
+"LLL
+ Admitting Diagnosis",1,PERSON
+Bronch,1,ORG
+Pleural,1,DATE
+MD,1,ORG
+FEMORAL VASCULAR ULTRASOUND,1,ORG
+HEMO,1,GPE
+Cr,1,PERSON
+"BP a
+ Admitting Diagnosis",1,ORG
+Portal/Hepatic Vein,1,ORG
+GI Bleed s/p sclerosis,1,ORG
+Portal/Hepatic Vein Thrombosis ->,1,ORG
+"CVA
+ REASON FOR THIS EXAMINATION",1,ORG
+Percheron,1,ORG
+one-half hour,1,TIME
+Echo,1,GPE
+node conglomerate,1,ORG
+OBSERVE FOR BONY METASTASIS,1,ORG
+pericardial,1,GPE
+s/p PNA,1,ORG
+tympanic abd,1,PERSON
+Large Cerebellar,1,PERSON
+"HIDA
+ scan",1,ORG
+a day,1,DATE
+Assess NGT,1,ORG
+NSClung CA,1,PERSON
+Reactivation,1,LOC
+Amplatz SuperStiff,1,PERSON
+ICDP,1,GPE
+Tarlov,1,NORP
+"CA,",1,ORG
+SINGLE SUPINE AP,1,ORG
+tibia,1,ORG
+node metastases,1,ORG
+Axonal,1,ORG
+Focally,1,ORG
+some four hours earlier,1,TIME
+LEFT,1,ORG
+Left rib met,1,FAC
+Neoplastic,1,ORG
+the left hemidiaphragm silhouette,1,ORG
+Lytic,1,FAC
+Intentional,1,ORG
+Left lung atelectasis,1,LOC
+argon laser,1,PERSON
+Suggested,1,ORG
+s/p air embolus,1,ORG
+aorta,1,GPE
+the span of one day,1,DATE
+Correlative PET,1,ORG
+SQ,1,PERSON
+last hospitalization,1,DATE
+Recommendation,1,ORG
+hypoT,1,PERSON
+same- day,1,DATE
+Continuous MDCT,1,PERSON
+Diaphragms,1,GPE
+CXR.also,1,ORG
+C. Diff,1,PERSON
+FOUR,1,CARDINAL
+Radiodense,1,ORG
+node +,1,ORG
+PAC,1,ORG
+more than a week,1,DATE
+Ca &,1,ORG
+Findings of,1,ORG
+"forPTX
+ Admitting Diagnosis",1,PERSON
+forPTX,1,PERSON
+s/p L UL,1,ORG
+OBTAIN,1,ORG
+S/P ET,1,ORG
+"a few
+ hours earlier",1,TIME
+O-Prolene,1,ORG
+Levonox,1,GPE
+SOB x,1,ORG
+yeseterday,1,DATE
+mark pneumothorax,1,PERSON
+"the preceding
+ day",1,DATE
+lung,1,PERSON
+"last
+  week",1,DATE
+Chronic lacunar,1,PRODUCT
+Interval change?Any,1,PERSON
+Assess Dobbhoff,1,PERSON
+Gram,1,CARDINAL
+Hypoattenuating,1,PERSON
+CLOT,1,ORG
+F/U CT,1,ORG
+"DOE
+ REASON FOR THIS EXAMINATION",1,PRODUCT
+"fever & PNA
+ REASON FOR THIS EXAMINATION",1,ORG
+oblong,1,DATE
+Diffusion-,1,ORG
+NP Chip,1,ORG
+w/ NSCLC,1,ORG
+"s/p
+  ETT",1,ORG
+"s/p rt pneumonectomy
+
+ REASON FOR THIS EXAMINATION",1,ORG
+APPEARANCE OF THE CHEST,1,ORG
+Fifty-eight year old,1,DATE
+aorta & LA,1,ORG
+SUPINE UPRIGHT RADIOGRAPHS OF THE,1,ORG
+five days earlier,1,DATE
+"s/p sternotomy & exploration
+ REASON FOR THIS EXAMINATION",1,ORG
+lobe,1,ORG
+"s/p
+    STEMI",1,ORG
+Leftsided,1,ORG
+Faint,1,ORG
+TB p/w,1,ORG
+MediPort,1,PRODUCT
+recent C.diff,1,DATE
+cm nonpathologically,1,PERSON
+Need abd,1,PERSON
+"Gadolinium
+ Admitting Diagnosis",1,FAC
+NEEDLE BIOPSY,1,ORG
+Multiphasic CT,1,PERSON
+Sixty-five year old,1,DATE
+Tight,1,PRODUCT
+dx'd,1,ORG
+Hyperintensities,1,LOC
+"s/p extubation
+ Admitting Diagnosis: TRACHEAL",1,ORG
+Venogram,1,GPE
+SCV,1,NORP
+guiaic,1,PERSON
+levo,1,GPE
+"PTX
+ Admitting Diagnosis: DYSPNEA
+ _",1,WORK_OF_ART
+Stereotactic,1,GPE
+CA w/,1,FAC
+AP UPRIGHT FILM DATED,1,ORG
+Marginal,1,PERSON
+rt lung,1,PERSON
+Five-mm,1,QUANTITY
+fluid s,1,ORG
+pleural fluid and/or,1,ORG
+STT,1,ORG
+a day before at,1,DATE
+"LOWER EXTREMITY VENOUS ULTRASOUND
+
+ COMPARISON",1,ORG
+abd tenderness s,1,PERSON
+LEFT IJ CORDIS,1,PERSON
+LEFT BRACHIOCEPHALIC,1,PERSON
+subq emphysema,1,PERSON
+pneumonia s,1,PERSON
+PLEURAL ASP,1,ORG
+Ambisome,1,PERSON
+EYeh d/w,1,ORG
+Lordotic,1,NORP
+the next day,1,DATE
+"s/p lo
+ Admitting Diagnosis: RIGHT LOWER LOBE",1,ORG
+subpulmonic pleural fluid,1,ORG
+"s/p l
+ Admitting Diagnosis: RIGHT LOWER",1,ORG
+Mass.,1,GPE
+RT PLEURAL,1,ORG
+Complication,1,ORG
+Comparison,1,PERSON
+nine hours earlier the same day,1,TIME
+"PTX
+ Admitting Diagnosis: RIGHT LOWER",1,WORK_OF_ART
+Pigtail,1,PRODUCT
+"R PTX
+ REASON FOR THIS EXAMINATION",1,PRODUCT
+CT-GUIDED FIDUCIAL SEED PLACEMENT,1,ORG
+Location,1,ORG
+Successful CT,1,ORG
+OPACITY,1,ORG
+the past two weeks,1,DATE
+Left IJ Cordis,1,PERSON
+IV NSLC,1,PERSON
+p/w acute mental,1,ORG
+day two,1,DATE
+secondary,1,ORDINAL
+O.R.,1,PERSON
+the PET CT of,1,ORG
+right lung,1,ORG
+Tachypnea,1,PERSON
+Infrahilar,1,ORG
+SP TUE,1,PERSON
+GDA per IR,1,ORG
+Comparison of,1,ORG
+"SOB
+ _",1,LAW
+P.A.,1,GPE
+RT mapping/planning,1,ORG
+asc aortic aneurysm,1,ORG
+CA s/p L,1,ORG
+"N/V
+ REASON FOR THIS EXAMINATION",1,ORG
+"Picc
+ REASON FOR THIS EXAMINATION",1,LOC
+Principal,1,NORP
+RT planning,1,ORG
+"RT planning
+ Admitting Diagnosis:",1,ORG
+Irregular,1,ORG
+RLLL,1,ORG
+Lidocaine,1,GPE
+juxtacaval lymph node,1,PERSON
+Lymphatic,1,NORP
+carcinoid s/p,1,ORG
+BM,1,ORG
+ROS,1,ORG
+"CA
+  -also",1,ORG
+Question CHF,1,ORG
+earlier on same day,1,DATE
+assese,1,NORP
+NSCLC S/P RMS,1,ORG
+RNS,1,ORG
+Extensive,1,PERSON
+Interval x-ray,1,PERSON
+"s/p Bronch
+ Admitting Diagnosis: RIGHT UPPER",1,ORG
+s/p Bronch,1,ORG
+Initial CT,1,ORG
